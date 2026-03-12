@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>EV Analytics Dashboard</title>
+
+<link rel="stylesheet" href="style.css">
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+</head>
+
+<body>
+
+<div class="sidebar">
+
+<h2>EV Analytics</h2>
+
+<ul>
+<li>Dashboard</li>
+<li>Charging</li>
+<li>Battery</li>
+<li>Efficiency</li>
+</ul>
+
+</div>
+
+<div class="main">
+
+<h1>Electric Vehicle Dashboard</h1>
+
+<div class="cards">
+
+<div class="card">
+<h3>Total Vehicles</h3>
+<p id="totalCars">0</p>
+</div>
+
+<div class="card">
+<h3>Average Range</h3>
+<p id="avgRange">0</p>
+</div>
+
+<div class="card">
+<h3>Average Charging Cost</h3>
+<p id="avgCost">0</p>
+</div>
+
+</div>
+
+<div class="charts">
+
+<canvas id="rangeChart"></canvas>
+
+</div>
+
+</div>
+
+<script>
+
+fetch("/data")
+.then(res => res.json())
+.then(data => {
+
+let models = data.map(x => x.Vehicle_Model)
+let ranges = data.map(x => x.Range_km)
+
+let total = data.length
+let avgRange = ranges.reduce((a,b)=>a+b,0)/total
+
+let costs = data.map(x => x.Charging_Cost)
+let avgCost = costs.reduce((a,b)=>a+b,0)/total
+
+document.getElementById("totalCars").innerText = total
+document.getElementById("avgRange").innerText = avgRange.toFixed(1)+" km"
+document.getElementById("avgCost").innerText = avgCost.toFixed(1)
+
+new Chart(document.getElementById("rangeChart"),{
+
+type:'bar',
+
+data:{
+labels:models,
+datasets:[{
+label:"Range (km)",
+data:ranges
+}]
+}
+
+})
+
+})
+let evData = []
+
+fetch("/data")
+.then(res => res.json())
+.then(data => {
+
+evData = data
+
+showRange()
+
+})
+
+function showRange(){
+
+let models = evData.map(x => x.Vehicle_Model)
+let ranges = evData.map(x => x.Range_km)
+
+drawChart(models, ranges, "EV Range (km)")
+
+}
+
+function showCharging(){
+
+let models = evData.map(x => x.Vehicle_Model)
+let power = evData.map(x => x.Charging_Power_kW)
+
+drawChart(models, power, "Charging Power (kW)")
+
+}
+
+function showBattery(){
+
+let models = evData.map(x => x.Vehicle_Model)
+let battery = evData.map(x => x.Battery_Capacity_kWh)
+
+drawChart(models, battery, "Battery Capacity")
+
+}
+
+function showEfficiency(){
+
+let models = evData.map(x => x.Vehicle_Model)
+
+let efficiency = evData.map(x =>
+x.Range_km / x.Battery_Capacity_kWh
+)
+
+drawChart(models, efficiency, "Efficiency (km/kWh)")
+
+}
+
+let chart
+
+function drawChart(labels, data, title){
+
+if(chart){
+chart.destroy()
+}
+
+chart = new Chart(document.getElementById("rangeChart"),{
+
+type:'bar',
+
+data:{
+labels:labels,
+datasets:[{
+label:title,
+data:data
+}]
+}
+
+})
+
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,2001 @@
+Vehicle_Model,Battery_Capacity_kWh,Range_km,Charging_Time_min,Charging_Power_kW,Location,Charging_Cost
+BYD Atto 3,87,397,71,36,Mumbai,263
+MG ZS EV,57,447,51,118,Pune,483
+Tesla Model 3,72,345,70,114,Mumbai,386
+BYD Atto 3,48,311,62,132,Ahmedabad,200
+Mahindra XUV400,70,477,56,142,Chennai,464
+Tata Nexon EV,52,326,82,125,Chennai,395
+Tesla Model 3,74,293,42,97,Ahmedabad,457
+MG ZS EV,89,263,76,104,Chennai,251
+Tesla Model Y,45,532,35,88,Hyderabad,253
+MG ZS EV,70,566,44,48,Hyderabad,499
+Tesla Model 3,44,316,42,43,Bangalore,585
+Nissan Leaf,89,424,35,98,Hyderabad,572
+Tata Nexon EV,52,387,84,136,Delhi,299
+Tesla Model Y,35,427,46,107,Kolkata,451
+Tata Nexon EV,31,413,71,37,Kolkata,443
+Tesla Model 3,47,556,81,62,Chennai,471
+Tesla Model Y,75,463,52,47,Chennai,596
+Tesla Model Y,48,535,88,84,Ahmedabad,470
+BYD Atto 3,68,570,37,143,Bangalore,547
+Mahindra XUV400,57,600,59,60,Hyderabad,413
+Nissan Leaf,87,595,45,109,Pune,558
+MG ZS EV,68,598,33,138,Chennai,500
+MG ZS EV,69,353,64,54,Delhi,486
+Mahindra XUV400,34,450,54,117,Mumbai,384
+Nissan Leaf,90,559,63,101,Ahmedabad,517
+BYD Atto 3,48,348,82,49,Kolkata,572
+Nissan Leaf,82,282,88,132,Kolkata,552
+Tata Nexon EV,70,430,48,98,Kolkata,287
+Tata Nexon EV,31,308,35,127,Mumbai,549
+Tesla Model Y,34,255,84,92,Ahmedabad,324
+Mahindra XUV400,39,285,85,73,Hyderabad,485
+Mahindra XUV400,43,466,36,140,Mumbai,385
+Mahindra XUV400,69,547,39,98,Ahmedabad,454
+Mahindra XUV400,62,462,61,63,Ahmedabad,509
+MG ZS EV,83,428,44,32,Pune,561
+Hyundai Kona,37,334,83,121,Bangalore,450
+Tesla Model Y,48,300,40,72,Mumbai,522
+BYD Atto 3,52,461,83,55,Kolkata,576
+Mahindra XUV400,36,349,68,64,Hyderabad,224
+BYD Atto 3,30,557,39,82,Chennai,247
+Nissan Leaf,30,256,69,69,Kolkata,562
+Hyundai Kona,82,462,66,29,Delhi,471
+BYD Atto 3,46,376,83,106,Mumbai,277
+Nissan Leaf,50,366,61,44,Pune,327
+Tata Nexon EV,56,598,43,60,Kolkata,306
+BYD Atto 3,68,263,86,34,Pune,368
+Tesla Model Y,54,258,30,71,Mumbai,209
+Tata Nexon EV,42,422,49,53,Pune,373
+Tesla Model Y,89,414,62,145,Chennai,501
+Tesla Model 3,87,382,86,76,Mumbai,253
+Tesla Model 3,85,530,37,114,Pune,286
+Tata Nexon EV,43,305,86,39,Hyderabad,208
+Tata Nexon EV,44,280,30,74,Kolkata,441
+Tesla Model Y,32,589,79,53,Chennai,409
+MG ZS EV,41,386,80,27,Hyderabad,205
+Tata Nexon EV,41,560,37,112,Bangalore,400
+Tesla Model Y,51,420,61,109,Pune,523
+Nissan Leaf,82,552,59,148,Ahmedabad,308
+MG ZS EV,30,574,54,115,Delhi,317
+BYD Atto 3,34,365,34,47,Hyderabad,291
+Mahindra XUV400,70,468,48,116,Mumbai,509
+Hyundai Kona,87,545,52,65,Mumbai,503
+Mahindra XUV400,85,305,67,95,Bangalore,269
+Hyundai Kona,81,263,54,39,Bangalore,532
+Tesla Model 3,87,335,54,46,Pune,452
+Mahindra XUV400,69,486,85,44,Kolkata,325
+Tesla Model Y,81,559,81,136,Kolkata,379
+Tata Nexon EV,58,354,49,107,Ahmedabad,418
+MG ZS EV,88,594,40,47,Chennai,433
+Hyundai Kona,38,571,42,138,Mumbai,210
+Tata Nexon EV,46,313,86,144,Bangalore,315
+Tata Nexon EV,79,297,52,117,Ahmedabad,425
+Mahindra XUV400,49,588,44,53,Ahmedabad,275
+Mahindra XUV400,56,257,64,83,Hyderabad,253
+BYD Atto 3,51,303,63,86,Hyderabad,260
+MG ZS EV,69,335,47,111,Bangalore,427
+Nissan Leaf,54,564,80,148,Ahmedabad,250
+MG ZS EV,53,360,36,27,Mumbai,456
+Mahindra XUV400,86,532,55,100,Kolkata,541
+Tesla Model 3,31,538,34,108,Bangalore,203
+BYD Atto 3,41,265,71,90,Delhi,216
+Nissan Leaf,44,558,65,33,Mumbai,449
+Tesla Model Y,78,280,57,77,Ahmedabad,306
+Tesla Model Y,31,585,30,81,Delhi,440
+Hyundai Kona,69,536,52,84,Hyderabad,341
+Tesla Model Y,81,526,75,113,Mumbai,554
+Tesla Model Y,49,312,88,41,Delhi,491
+Nissan Leaf,50,384,83,105,Pune,322
+Tesla Model Y,89,597,56,118,Hyderabad,515
+Mahindra XUV400,59,518,85,92,Hyderabad,600
+Mahindra XUV400,46,469,45,143,Pune,332
+Hyundai Kona,71,289,36,75,Bangalore,414
+Mahindra XUV400,55,358,61,123,Pune,202
+Nissan Leaf,32,316,68,50,Ahmedabad,371
+Nissan Leaf,84,445,52,61,Ahmedabad,593
+MG ZS EV,73,523,58,55,Bangalore,248
+Nissan Leaf,31,500,85,29,Chennai,426
+Tata Nexon EV,51,546,76,141,Delhi,250
+Tesla Model 3,60,337,41,28,Pune,229
+BYD Atto 3,63,571,50,79,Delhi,340
+MG ZS EV,43,315,74,104,Bangalore,567
+Mahindra XUV400,65,484,90,83,Hyderabad,491
+Tata Nexon EV,43,570,64,63,Bangalore,353
+BYD Atto 3,36,524,78,146,Pune,407
+Nissan Leaf,86,394,66,39,Bangalore,553
+Nissan Leaf,52,462,52,126,Mumbai,371
+Mahindra XUV400,76,570,41,53,Pune,433
+MG ZS EV,64,289,51,149,Chennai,389
+Tesla Model 3,53,254,58,49,Delhi,329
+Mahindra XUV400,65,310,35,111,Chennai,523
+Tata Nexon EV,34,460,34,143,Hyderabad,432
+Hyundai Kona,59,472,68,100,Kolkata,499
+BYD Atto 3,85,434,44,52,Chennai,304
+Nissan Leaf,49,367,50,142,Pune,223
+BYD Atto 3,38,282,57,82,Bangalore,238
+Tesla Model 3,66,267,59,134,Ahmedabad,438
+Tata Nexon EV,32,477,70,75,Mumbai,597
+Nissan Leaf,63,525,48,96,Delhi,439
+MG ZS EV,68,398,63,51,Delhi,433
+Tata Nexon EV,45,488,51,95,Chennai,550
+MG ZS EV,66,344,35,49,Ahmedabad,327
+MG ZS EV,34,593,33,137,Delhi,218
+Tesla Model Y,50,521,74,80,Bangalore,255
+Nissan Leaf,40,518,35,102,Kolkata,561
+Tata Nexon EV,56,410,71,95,Kolkata,203
+Tata Nexon EV,80,486,46,67,Ahmedabad,253
+BYD Atto 3,85,269,59,29,Hyderabad,325
+Tata Nexon EV,32,512,62,132,Pune,359
+Tata Nexon EV,62,348,54,137,Delhi,582
+BYD Atto 3,30,395,75,52,Ahmedabad,374
+Tesla Model Y,54,284,35,61,Kolkata,542
+BYD Atto 3,42,301,32,82,Hyderabad,485
+MG ZS EV,45,568,35,117,Bangalore,588
+Tesla Model Y,45,387,61,86,Kolkata,337
+Mahindra XUV400,79,263,55,132,Kolkata,278
+Tata Nexon EV,77,562,71,127,Ahmedabad,582
+Mahindra XUV400,85,456,41,148,Ahmedabad,445
+Tata Nexon EV,49,286,49,67,Chennai,232
+BYD Atto 3,66,370,86,41,Pune,580
+Tesla Model 3,69,526,59,54,Mumbai,328
+Tesla Model 3,65,418,88,115,Chennai,471
+MG ZS EV,52,429,90,97,Hyderabad,458
+Mahindra XUV400,79,545,39,104,Bangalore,516
+Hyundai Kona,90,439,63,26,Hyderabad,411
+Tesla Model 3,38,545,32,122,Pune,449
+Tesla Model 3,79,418,88,56,Hyderabad,386
+BYD Atto 3,58,409,54,148,Kolkata,482
+MG ZS EV,56,507,64,109,Delhi,452
+Nissan Leaf,63,271,84,58,Ahmedabad,253
+Tesla Model 3,67,560,55,57,Bangalore,268
+MG ZS EV,72,444,77,64,Mumbai,409
+Tesla Model Y,89,410,80,143,Ahmedabad,530
+Nissan Leaf,34,520,72,62,Bangalore,532
+Mahindra XUV400,42,596,72,96,Ahmedabad,499
+MG ZS EV,47,498,60,77,Ahmedabad,316
+MG ZS EV,36,260,30,111,Pune,513
+Hyundai Kona,31,595,51,125,Hyderabad,489
+Hyundai Kona,85,268,59,111,Pune,387
+Tesla Model 3,82,266,78,146,Pune,389
+Hyundai Kona,40,412,46,58,Chennai,532
+Tata Nexon EV,86,445,66,86,Hyderabad,495
+Tesla Model Y,45,413,72,108,Bangalore,507
+Tesla Model 3,41,388,73,136,Pune,350
+Nissan Leaf,32,312,54,102,Bangalore,514
+Nissan Leaf,34,279,88,31,Hyderabad,256
+Mahindra XUV400,70,420,88,147,Delhi,369
+Tesla Model 3,84,593,35,60,Mumbai,568
+Tesla Model Y,41,491,34,121,Kolkata,585
+BYD Atto 3,65,455,48,75,Pune,265
+MG ZS EV,86,499,67,146,Chennai,328
+MG ZS EV,75,472,80,96,Bangalore,278
+Nissan Leaf,43,498,76,48,Hyderabad,485
+Tata Nexon EV,67,593,71,47,Pune,586
+Mahindra XUV400,74,584,72,103,Bangalore,566
+BYD Atto 3,34,295,57,38,Mumbai,413
+Tesla Model 3,50,538,47,132,Ahmedabad,404
+Mahindra XUV400,41,313,39,142,Bangalore,551
+MG ZS EV,53,329,66,28,Hyderabad,220
+Nissan Leaf,87,553,80,76,Pune,300
+BYD Atto 3,74,432,72,91,Ahmedabad,344
+Tata Nexon EV,66,267,88,112,Bangalore,483
+BYD Atto 3,31,567,50,46,Mumbai,220
+Tesla Model Y,62,340,50,73,Bangalore,291
+Mahindra XUV400,80,480,67,139,Hyderabad,445
+Nissan Leaf,33,300,70,60,Mumbai,291
+Tesla Model 3,50,517,34,37,Delhi,363
+Tesla Model Y,55,380,62,62,Pune,552
+BYD Atto 3,90,400,65,34,Pune,389
+Tata Nexon EV,51,516,82,138,Delhi,270
+Tesla Model Y,38,440,32,51,Chennai,321
+MG ZS EV,30,548,42,112,Ahmedabad,259
+MG ZS EV,84,507,80,48,Delhi,380
+Hyundai Kona,69,543,87,83,Hyderabad,402
+Mahindra XUV400,75,550,47,91,Chennai,560
+Hyundai Kona,45,277,52,134,Hyderabad,514
+Tesla Model Y,35,521,33,42,Kolkata,471
+Tesla Model 3,58,348,72,112,Delhi,305
+Mahindra XUV400,37,361,50,25,Hyderabad,471
+MG ZS EV,88,354,59,143,Hyderabad,333
+Tesla Model 3,43,479,67,70,Delhi,570
+Nissan Leaf,52,495,73,147,Mumbai,594
+MG ZS EV,71,299,59,145,Pune,336
+Mahindra XUV400,49,344,89,66,Delhi,525
+Hyundai Kona,45,340,36,126,Ahmedabad,393
+MG ZS EV,73,363,56,85,Bangalore,476
+Mahindra XUV400,49,378,70,42,Hyderabad,495
+Nissan Leaf,63,263,32,51,Delhi,232
+Tesla Model Y,45,478,48,121,Ahmedabad,546
+Hyundai Kona,51,395,74,142,Bangalore,375
+Nissan Leaf,73,512,81,145,Hyderabad,325
+Nissan Leaf,40,595,47,140,Mumbai,587
+BYD Atto 3,44,369,84,72,Pune,261
+Tesla Model 3,78,592,39,114,Kolkata,599
+Mahindra XUV400,48,353,33,82,Kolkata,217
+Mahindra XUV400,88,539,86,69,Mumbai,594
+Mahindra XUV400,62,313,53,55,Kolkata,212
+MG ZS EV,72,486,54,101,Bangalore,394
+Tesla Model 3,42,292,73,104,Mumbai,223
+Nissan Leaf,43,362,48,122,Hyderabad,415
+Hyundai Kona,75,250,48,59,Hyderabad,260
+Hyundai Kona,62,314,37,53,Delhi,519
+Tata Nexon EV,70,331,55,28,Pune,283
+MG ZS EV,76,420,90,117,Bangalore,483
+Hyundai Kona,63,537,40,95,Hyderabad,491
+Tesla Model 3,38,514,64,84,Pune,291
+Tesla Model Y,32,502,47,115,Hyderabad,376
+Tesla Model 3,60,457,71,39,Hyderabad,430
+Tesla Model Y,41,344,42,138,Ahmedabad,520
+MG ZS EV,49,448,72,50,Bangalore,571
+Tesla Model Y,33,396,44,81,Kolkata,250
+Tata Nexon EV,32,257,77,130,Mumbai,344
+Tesla Model Y,36,418,77,48,Ahmedabad,600
+Nissan Leaf,90,596,58,143,Bangalore,449
+BYD Atto 3,62,476,80,135,Delhi,358
+Tesla Model 3,58,448,48,147,Kolkata,550
+Tata Nexon EV,57,490,55,88,Pune,230
+MG ZS EV,48,273,32,76,Mumbai,299
+Hyundai Kona,30,315,55,85,Delhi,301
+Tata Nexon EV,65,434,84,37,Ahmedabad,316
+Tesla Model 3,70,563,55,42,Kolkata,321
+Hyundai Kona,56,464,53,111,Pune,462
+Hyundai Kona,32,404,39,143,Delhi,250
+Tesla Model 3,57,567,57,124,Pune,566
+Tesla Model Y,85,413,73,29,Delhi,548
+MG ZS EV,41,599,86,147,Hyderabad,522
+MG ZS EV,40,299,68,110,Delhi,592
+Hyundai Kona,77,263,78,124,Ahmedabad,329
+Nissan Leaf,49,586,43,77,Hyderabad,369
+Tesla Model Y,45,300,30,52,Hyderabad,379
+Tata Nexon EV,31,572,58,41,Hyderabad,314
+Mahindra XUV400,50,399,34,92,Chennai,497
+Tesla Model 3,55,452,54,116,Bangalore,380
+Hyundai Kona,73,456,76,112,Pune,351
+Tesla Model Y,34,350,75,80,Ahmedabad,354
+Nissan Leaf,31,349,41,149,Chennai,343
+Tesla Model 3,55,526,44,28,Mumbai,597
+Tesla Model 3,53,307,71,141,Kolkata,366
+BYD Atto 3,47,353,50,76,Ahmedabad,204
+Tesla Model 3,73,392,62,36,Mumbai,470
+Tesla Model Y,62,402,87,72,Delhi,330
+Tata Nexon EV,70,347,42,104,Kolkata,429
+Tesla Model 3,76,469,50,76,Chennai,589
+BYD Atto 3,58,394,52,149,Mumbai,483
+Tata Nexon EV,62,439,48,81,Kolkata,408
+Tesla Model Y,40,480,71,124,Ahmedabad,208
+Tesla Model Y,48,428,63,54,Delhi,206
+MG ZS EV,31,351,62,86,Hyderabad,408
+MG ZS EV,48,483,90,51,Hyderabad,506
+Nissan Leaf,90,281,79,53,Chennai,203
+Mahindra XUV400,44,594,65,43,Chennai,365
+Mahindra XUV400,57,399,30,84,Ahmedabad,389
+BYD Atto 3,74,261,34,123,Bangalore,348
+Tesla Model Y,69,539,89,149,Delhi,218
+Tesla Model 3,83,348,46,115,Hyderabad,340
+Nissan Leaf,34,433,61,108,Delhi,597
+Mahindra XUV400,48,317,88,127,Delhi,210
+Tata Nexon EV,42,361,32,124,Pune,256
+Nissan Leaf,69,368,30,56,Pune,347
+Mahindra XUV400,90,483,42,141,Mumbai,221
+MG ZS EV,83,545,80,80,Chennai,399
+Tata Nexon EV,76,350,80,56,Bangalore,379
+Hyundai Kona,77,422,62,32,Pune,386
+MG ZS EV,68,312,30,47,Ahmedabad,503
+Tata Nexon EV,69,501,71,94,Ahmedabad,265
+Tesla Model 3,60,498,50,83,Bangalore,532
+MG ZS EV,69,343,36,47,Pune,355
+Nissan Leaf,40,339,54,98,Kolkata,250
+Tata Nexon EV,44,326,40,112,Kolkata,301
+MG ZS EV,51,372,87,47,Kolkata,527
+Hyundai Kona,76,390,71,102,Delhi,468
+MG ZS EV,67,263,32,147,Ahmedabad,554
+Mahindra XUV400,51,473,88,120,Ahmedabad,201
+Tata Nexon EV,80,514,33,57,Bangalore,449
+Tesla Model Y,58,564,89,65,Mumbai,237
+Hyundai Kona,30,389,31,70,Bangalore,367
+Hyundai Kona,46,576,57,79,Hyderabad,481
+Tesla Model 3,35,575,84,76,Mumbai,264
+Mahindra XUV400,35,557,60,115,Chennai,550
+Hyundai Kona,54,260,50,86,Ahmedabad,520
+MG ZS EV,47,288,30,82,Kolkata,205
+Nissan Leaf,80,407,80,55,Delhi,512
+Hyundai Kona,76,463,34,129,Kolkata,247
+Nissan Leaf,84,470,47,29,Delhi,340
+Tesla Model Y,77,261,65,62,Bangalore,592
+Nissan Leaf,72,379,90,91,Kolkata,365
+Tata Nexon EV,85,564,69,121,Ahmedabad,222
+BYD Atto 3,62,479,69,145,Ahmedabad,417
+Tesla Model Y,53,420,57,99,Hyderabad,593
+Hyundai Kona,58,277,68,128,Bangalore,290
+BYD Atto 3,74,277,65,148,Mumbai,454
+Mahindra XUV400,41,307,48,56,Bangalore,316
+MG ZS EV,31,593,44,64,Bangalore,539
+Nissan Leaf,31,296,53,88,Delhi,480
+Tesla Model Y,70,422,78,100,Delhi,261
+Tesla Model 3,51,362,78,138,Pune,274
+Tesla Model Y,36,474,83,141,Mumbai,512
+MG ZS EV,33,299,53,95,Mumbai,396
+Hyundai Kona,60,277,58,59,Hyderabad,577
+Tata Nexon EV,49,293,84,138,Pune,217
+Tesla Model 3,76,565,72,39,Chennai,557
+Tesla Model Y,40,353,61,90,Delhi,444
+Mahindra XUV400,30,469,85,138,Bangalore,346
+BYD Atto 3,66,338,72,143,Bangalore,213
+Tata Nexon EV,63,372,45,50,Delhi,295
+Nissan Leaf,30,445,78,85,Hyderabad,295
+MG ZS EV,30,351,49,142,Ahmedabad,374
+MG ZS EV,70,428,48,96,Mumbai,563
+Tesla Model 3,38,423,31,63,Hyderabad,287
+BYD Atto 3,84,256,78,54,Kolkata,334
+Tata Nexon EV,31,285,89,128,Delhi,444
+Mahindra XUV400,65,475,59,98,Hyderabad,495
+Tata Nexon EV,73,378,71,56,Delhi,580
+MG ZS EV,48,351,88,68,Bangalore,460
+MG ZS EV,82,284,62,63,Kolkata,245
+Tesla Model Y,81,525,73,90,Pune,234
+MG ZS EV,43,459,78,70,Ahmedabad,220
+Mahindra XUV400,73,489,68,75,Pune,310
+MG ZS EV,48,259,54,40,Hyderabad,460
+Tesla Model Y,86,583,56,58,Delhi,433
+Hyundai Kona,33,322,38,87,Mumbai,577
+Tata Nexon EV,34,542,53,78,Kolkata,367
+MG ZS EV,58,290,45,51,Hyderabad,567
+Tesla Model 3,68,493,35,30,Pune,244
+MG ZS EV,48,358,41,35,Hyderabad,234
+Tesla Model 3,37,288,77,100,Delhi,399
+Hyundai Kona,76,319,55,99,Pune,508
+Tata Nexon EV,41,357,31,26,Delhi,464
+Tesla Model Y,55,505,74,62,Bangalore,380
+Tesla Model 3,68,395,82,60,Chennai,389
+Tesla Model Y,81,281,63,29,Ahmedabad,202
+Mahindra XUV400,79,385,79,89,Ahmedabad,362
+Hyundai Kona,64,459,89,72,Delhi,243
+Nissan Leaf,63,532,42,115,Hyderabad,455
+Hyundai Kona,78,298,62,144,Delhi,393
+BYD Atto 3,75,408,33,94,Kolkata,334
+Tesla Model Y,45,437,49,135,Delhi,281
+Tata Nexon EV,33,385,44,48,Ahmedabad,501
+BYD Atto 3,33,529,41,131,Mumbai,260
+Tata Nexon EV,32,272,80,120,Delhi,367
+Nissan Leaf,87,550,77,56,Kolkata,334
+Mahindra XUV400,49,561,86,66,Bangalore,432
+Hyundai Kona,31,528,90,42,Kolkata,502
+Tesla Model Y,30,339,68,145,Pune,343
+Nissan Leaf,59,478,75,150,Pune,307
+MG ZS EV,53,495,32,128,Hyderabad,289
+Tesla Model 3,52,395,58,77,Mumbai,491
+BYD Atto 3,83,345,77,118,Bangalore,336
+Tesla Model 3,68,474,55,48,Kolkata,283
+Mahindra XUV400,55,288,60,138,Delhi,453
+Tesla Model Y,30,381,88,113,Hyderabad,289
+MG ZS EV,53,521,87,33,Kolkata,316
+Tesla Model Y,52,495,31,29,Kolkata,388
+Mahindra XUV400,54,296,32,51,Mumbai,584
+Tesla Model Y,69,597,49,34,Pune,484
+Tesla Model Y,88,321,75,89,Chennai,509
+Nissan Leaf,57,296,79,85,Kolkata,364
+Tesla Model Y,32,360,63,128,Mumbai,560
+Nissan Leaf,50,584,86,52,Pune,233
+BYD Atto 3,51,418,75,93,Mumbai,236
+Tata Nexon EV,62,415,50,84,Ahmedabad,556
+MG ZS EV,47,569,44,30,Hyderabad,306
+MG ZS EV,63,435,79,150,Bangalore,299
+MG ZS EV,54,548,34,58,Hyderabad,319
+Tesla Model 3,78,488,66,69,Mumbai,327
+Tata Nexon EV,44,582,80,59,Bangalore,584
+Nissan Leaf,33,574,34,96,Kolkata,348
+MG ZS EV,54,364,86,141,Hyderabad,302
+Tata Nexon EV,45,369,41,100,Chennai,301
+Tata Nexon EV,35,514,68,112,Chennai,531
+Tata Nexon EV,31,496,86,64,Bangalore,495
+Mahindra XUV400,60,341,52,138,Pune,562
+Mahindra XUV400,85,391,43,121,Pune,436
+Mahindra XUV400,50,590,48,28,Pune,530
+Tata Nexon EV,80,584,40,32,Delhi,521
+Hyundai Kona,76,386,72,104,Chennai,314
+MG ZS EV,40,288,80,51,Ahmedabad,503
+Mahindra XUV400,37,332,81,31,Kolkata,559
+Tesla Model 3,43,393,80,127,Hyderabad,327
+Nissan Leaf,87,506,86,82,Kolkata,574
+Tata Nexon EV,87,537,79,137,Hyderabad,424
+Nissan Leaf,54,544,71,27,Mumbai,264
+Hyundai Kona,65,587,68,139,Pune,388
+Mahindra XUV400,40,295,36,111,Hyderabad,222
+Hyundai Kona,54,502,32,42,Hyderabad,249
+Nissan Leaf,74,426,78,88,Ahmedabad,217
+Tesla Model Y,86,540,77,101,Pune,505
+Tata Nexon EV,61,366,49,90,Mumbai,491
+Mahindra XUV400,76,353,52,96,Hyderabad,336
+Tesla Model Y,87,486,88,43,Mumbai,325
+Tata Nexon EV,83,417,49,73,Chennai,518
+BYD Atto 3,39,317,36,112,Mumbai,560
+MG ZS EV,66,360,46,68,Chennai,296
+Tata Nexon EV,34,364,71,148,Delhi,214
+Mahindra XUV400,52,584,66,76,Bangalore,505
+Tesla Model Y,57,293,52,33,Ahmedabad,419
+Tata Nexon EV,59,533,60,79,Delhi,235
+Hyundai Kona,60,566,43,148,Kolkata,485
+Hyundai Kona,46,363,37,36,Hyderabad,545
+BYD Atto 3,78,598,48,150,Delhi,300
+Tata Nexon EV,77,419,62,112,Kolkata,538
+Tesla Model 3,46,358,64,49,Kolkata,297
+Tesla Model 3,38,436,41,51,Mumbai,377
+Hyundai Kona,41,479,75,113,Chennai,599
+MG ZS EV,79,502,63,115,Kolkata,501
+Nissan Leaf,79,341,72,42,Bangalore,510
+MG ZS EV,39,454,38,124,Hyderabad,369
+Tata Nexon EV,54,407,53,83,Chennai,544
+Tesla Model Y,90,307,84,130,Kolkata,483
+Mahindra XUV400,88,389,60,84,Chennai,582
+Tesla Model Y,81,438,89,141,Pune,416
+Tesla Model 3,41,370,66,45,Chennai,211
+Tesla Model 3,69,534,88,109,Ahmedabad,498
+Tesla Model Y,71,343,34,132,Mumbai,211
+Mahindra XUV400,69,594,40,130,Mumbai,203
+BYD Atto 3,51,470,49,63,Bangalore,211
+BYD Atto 3,71,568,53,25,Mumbai,459
+Hyundai Kona,73,531,32,106,Kolkata,297
+Tesla Model 3,69,330,90,100,Pune,600
+BYD Atto 3,68,499,42,113,Chennai,474
+MG ZS EV,45,487,76,75,Bangalore,276
+MG ZS EV,66,349,31,133,Chennai,243
+MG ZS EV,34,449,75,118,Pune,568
+Hyundai Kona,64,257,75,131,Hyderabad,583
+Nissan Leaf,89,374,87,83,Pune,540
+Tata Nexon EV,82,292,40,96,Pune,555
+BYD Atto 3,50,582,51,45,Pune,250
+Tesla Model 3,67,306,86,142,Chennai,347
+Tata Nexon EV,66,596,90,87,Bangalore,401
+Tesla Model 3,74,315,40,60,Kolkata,369
+Mahindra XUV400,82,465,53,115,Bangalore,294
+MG ZS EV,84,579,59,119,Bangalore,580
+Tesla Model 3,76,495,42,126,Chennai,345
+Tata Nexon EV,34,405,51,90,Ahmedabad,590
+Tesla Model Y,64,323,88,139,Hyderabad,253
+Mahindra XUV400,48,261,44,80,Ahmedabad,515
+BYD Atto 3,81,596,76,64,Kolkata,312
+Tesla Model Y,31,377,90,64,Chennai,394
+Tata Nexon EV,55,297,39,56,Kolkata,509
+Tesla Model Y,40,411,57,78,Bangalore,372
+Tesla Model 3,86,403,66,107,Bangalore,342
+Tata Nexon EV,69,259,82,147,Hyderabad,310
+Mahindra XUV400,90,353,31,92,Hyderabad,238
+Hyundai Kona,37,547,39,92,Chennai,205
+MG ZS EV,49,261,79,144,Bangalore,332
+Mahindra XUV400,31,520,57,124,Ahmedabad,517
+BYD Atto 3,47,566,50,106,Ahmedabad,472
+Mahindra XUV400,38,559,78,28,Chennai,290
+Tesla Model Y,71,596,52,32,Kolkata,600
+Tesla Model 3,84,358,63,72,Delhi,486
+Tesla Model 3,83,558,34,133,Bangalore,352
+Tesla Model Y,55,493,33,116,Kolkata,340
+Tesla Model Y,78,290,64,109,Chennai,452
+Tesla Model 3,48,270,45,148,Hyderabad,416
+BYD Atto 3,30,331,88,82,Bangalore,248
+Tata Nexon EV,46,583,66,40,Delhi,468
+Mahindra XUV400,42,353,55,148,Delhi,260
+Tata Nexon EV,32,470,43,67,Bangalore,477
+Nissan Leaf,61,353,71,85,Bangalore,579
+Mahindra XUV400,87,309,65,87,Delhi,447
+Nissan Leaf,57,433,87,79,Hyderabad,237
+Nissan Leaf,61,550,59,119,Ahmedabad,470
+Tesla Model Y,32,278,68,53,Kolkata,571
+Tesla Model 3,85,486,89,29,Chennai,592
+Mahindra XUV400,55,361,89,35,Hyderabad,485
+Tesla Model Y,64,479,46,76,Kolkata,295
+BYD Atto 3,31,341,43,137,Hyderabad,333
+BYD Atto 3,63,440,34,41,Delhi,251
+Tesla Model 3,64,405,79,54,Pune,394
+MG ZS EV,32,388,69,95,Delhi,325
+Tesla Model 3,44,600,88,103,Hyderabad,441
+BYD Atto 3,76,468,71,42,Mumbai,257
+Tesla Model Y,63,493,86,38,Chennai,255
+MG ZS EV,86,311,90,138,Delhi,482
+Tesla Model 3,30,296,33,63,Delhi,532
+Nissan Leaf,67,264,40,62,Pune,545
+Tesla Model 3,66,423,75,31,Bangalore,500
+Tesla Model Y,53,420,34,132,Chennai,320
+Mahindra XUV400,74,598,58,40,Mumbai,451
+Tesla Model Y,45,402,30,38,Pune,353
+Mahindra XUV400,62,353,65,126,Bangalore,541
+Mahindra XUV400,36,382,47,46,Delhi,506
+MG ZS EV,78,321,44,96,Ahmedabad,598
+Tesla Model Y,45,280,74,142,Kolkata,232
+Mahindra XUV400,41,265,67,108,Pune,453
+Hyundai Kona,33,419,48,49,Bangalore,585
+Mahindra XUV400,58,436,46,129,Hyderabad,461
+Mahindra XUV400,83,272,45,81,Delhi,223
+Hyundai Kona,76,408,42,38,Delhi,475
+Hyundai Kona,86,462,42,127,Bangalore,449
+BYD Atto 3,70,582,30,96,Bangalore,325
+Mahindra XUV400,34,389,80,126,Pune,496
+Nissan Leaf,64,294,88,84,Mumbai,361
+Tesla Model 3,66,452,67,96,Kolkata,531
+Hyundai Kona,82,289,85,27,Delhi,599
+Hyundai Kona,40,400,33,119,Hyderabad,552
+Nissan Leaf,75,377,71,37,Ahmedabad,470
+BYD Atto 3,41,476,63,116,Pune,401
+Tata Nexon EV,44,365,50,56,Delhi,527
+Hyundai Kona,39,441,81,87,Pune,455
+Nissan Leaf,75,470,51,113,Hyderabad,481
+Hyundai Kona,87,553,90,79,Chennai,464
+Hyundai Kona,37,567,86,87,Pune,202
+Mahindra XUV400,78,515,90,71,Pune,460
+Hyundai Kona,83,369,61,122,Ahmedabad,203
+Nissan Leaf,59,279,34,104,Bangalore,454
+BYD Atto 3,34,272,43,44,Hyderabad,394
+MG ZS EV,70,295,34,106,Mumbai,509
+BYD Atto 3,76,600,60,116,Ahmedabad,563
+Hyundai Kona,87,538,45,130,Chennai,236
+Tata Nexon EV,90,498,69,82,Chennai,265
+Mahindra XUV400,87,380,53,92,Bangalore,519
+Mahindra XUV400,52,378,86,33,Hyderabad,255
+Mahindra XUV400,49,398,46,85,Delhi,396
+Mahindra XUV400,68,367,84,113,Chennai,390
+Nissan Leaf,72,338,49,73,Bangalore,387
+Nissan Leaf,52,267,45,86,Delhi,561
+BYD Atto 3,30,362,45,79,Pune,288
+Nissan Leaf,82,312,36,129,Delhi,211
+Nissan Leaf,64,266,87,122,Kolkata,505
+Mahindra XUV400,89,540,49,53,Ahmedabad,206
+Nissan Leaf,59,438,89,97,Mumbai,215
+BYD Atto 3,81,430,48,33,Hyderabad,358
+Nissan Leaf,30,556,80,36,Pune,574
+MG ZS EV,58,388,81,128,Ahmedabad,224
+Hyundai Kona,73,537,48,87,Kolkata,395
+Hyundai Kona,79,254,71,76,Chennai,229
+Hyundai Kona,59,570,54,69,Hyderabad,318
+Tesla Model Y,34,541,40,28,Ahmedabad,361
+Nissan Leaf,85,259,43,139,Ahmedabad,423
+Nissan Leaf,39,250,37,128,Mumbai,550
+Tata Nexon EV,31,539,82,50,Mumbai,448
+Mahindra XUV400,79,503,84,75,Bangalore,395
+MG ZS EV,87,405,48,137,Delhi,437
+Tesla Model 3,59,527,36,142,Delhi,449
+MG ZS EV,45,441,61,118,Bangalore,397
+Nissan Leaf,75,344,57,150,Delhi,598
+BYD Atto 3,85,316,72,102,Kolkata,475
+Mahindra XUV400,75,264,89,136,Hyderabad,484
+Mahindra XUV400,47,253,66,126,Hyderabad,588
+MG ZS EV,75,400,86,60,Mumbai,389
+Hyundai Kona,56,517,58,104,Hyderabad,224
+Tata Nexon EV,44,514,64,101,Ahmedabad,557
+Mahindra XUV400,61,568,90,102,Mumbai,416
+Tesla Model 3,53,363,79,27,Bangalore,548
+BYD Atto 3,84,266,63,124,Delhi,554
+Tesla Model Y,85,517,44,115,Kolkata,569
+Nissan Leaf,76,495,60,38,Mumbai,217
+Hyundai Kona,54,290,41,145,Mumbai,218
+Tesla Model Y,39,276,31,120,Ahmedabad,413
+Tata Nexon EV,70,358,41,41,Ahmedabad,221
+MG ZS EV,90,427,66,83,Pune,564
+Tesla Model Y,54,561,61,46,Mumbai,585
+Nissan Leaf,61,439,50,47,Pune,561
+Nissan Leaf,51,414,73,65,Delhi,209
+Tesla Model 3,43,346,47,142,Pune,550
+Nissan Leaf,36,505,52,75,Hyderabad,448
+Tesla Model 3,71,367,39,86,Bangalore,214
+Nissan Leaf,38,306,88,54,Kolkata,290
+Tata Nexon EV,48,569,66,28,Chennai,227
+MG ZS EV,55,513,55,79,Mumbai,591
+Tata Nexon EV,53,285,39,41,Mumbai,355
+Mahindra XUV400,40,588,36,70,Delhi,300
+Mahindra XUV400,82,571,63,86,Chennai,349
+Tata Nexon EV,50,584,47,33,Delhi,498
+Tesla Model Y,61,462,33,138,Chennai,525
+Tata Nexon EV,59,591,66,73,Hyderabad,210
+Nissan Leaf,48,403,87,61,Ahmedabad,590
+Nissan Leaf,82,588,71,31,Pune,580
+Tesla Model 3,42,563,47,38,Ahmedabad,240
+Tata Nexon EV,58,526,64,34,Ahmedabad,390
+MG ZS EV,68,379,71,108,Bangalore,272
+MG ZS EV,33,327,59,101,Hyderabad,577
+MG ZS EV,75,544,75,96,Hyderabad,254
+Tata Nexon EV,56,435,43,33,Kolkata,545
+Nissan Leaf,87,321,30,81,Ahmedabad,523
+Mahindra XUV400,82,513,53,126,Chennai,524
+Hyundai Kona,84,585,81,59,Chennai,210
+Nissan Leaf,87,545,69,31,Kolkata,449
+Tesla Model 3,63,430,30,118,Ahmedabad,586
+Tesla Model Y,31,522,74,25,Delhi,257
+Mahindra XUV400,72,423,67,38,Ahmedabad,481
+Tata Nexon EV,62,556,37,113,Ahmedabad,516
+Nissan Leaf,37,267,43,90,Hyderabad,569
+Nissan Leaf,39,395,67,25,Pune,533
+Hyundai Kona,78,425,82,39,Kolkata,549
+MG ZS EV,42,588,82,146,Bangalore,313
+Tata Nexon EV,42,470,62,59,Pune,347
+MG ZS EV,79,303,45,33,Pune,353
+Tata Nexon EV,86,296,42,120,Kolkata,519
+Tesla Model 3,64,405,63,127,Kolkata,376
+MG ZS EV,32,399,50,89,Chennai,246
+Tata Nexon EV,53,593,73,124,Mumbai,457
+Tesla Model Y,39,564,51,95,Bangalore,589
+Hyundai Kona,73,331,63,43,Delhi,286
+Tesla Model 3,88,513,64,111,Kolkata,262
+Mahindra XUV400,40,383,88,80,Pune,227
+Tata Nexon EV,53,456,72,60,Kolkata,246
+BYD Atto 3,30,253,63,43,Chennai,278
+Mahindra XUV400,84,540,48,38,Ahmedabad,494
+Tata Nexon EV,69,423,60,107,Ahmedabad,355
+Tesla Model Y,31,582,31,31,Ahmedabad,312
+Tata Nexon EV,33,276,83,127,Hyderabad,572
+Tata Nexon EV,77,343,72,103,Chennai,505
+BYD Atto 3,43,572,70,136,Chennai,519
+Tesla Model Y,53,268,61,92,Mumbai,397
+Hyundai Kona,74,282,43,75,Pune,278
+Tesla Model 3,81,526,67,83,Chennai,211
+BYD Atto 3,63,445,66,108,Ahmedabad,335
+MG ZS EV,76,404,67,60,Mumbai,373
+BYD Atto 3,80,553,41,109,Chennai,384
+BYD Atto 3,42,597,89,79,Pune,232
+Nissan Leaf,55,334,48,131,Pune,333
+Mahindra XUV400,67,532,78,75,Mumbai,506
+Tesla Model Y,63,479,48,146,Mumbai,470
+Tesla Model 3,63,318,76,126,Kolkata,415
+Hyundai Kona,74,500,72,143,Chennai,546
+BYD Atto 3,83,543,52,27,Ahmedabad,379
+Tesla Model 3,56,385,87,87,Chennai,322
+Nissan Leaf,30,300,46,36,Mumbai,296
+Tesla Model Y,63,414,54,122,Kolkata,227
+Tesla Model Y,83,255,36,146,Mumbai,579
+Hyundai Kona,45,433,58,77,Delhi,563
+Tesla Model Y,83,301,50,142,Ahmedabad,277
+Tata Nexon EV,39,558,73,58,Chennai,401
+BYD Atto 3,44,308,62,91,Delhi,586
+Tesla Model 3,58,544,72,132,Hyderabad,358
+Tata Nexon EV,89,596,56,103,Chennai,352
+Hyundai Kona,85,283,62,25,Kolkata,525
+Tata Nexon EV,52,337,51,73,Kolkata,525
+Tata Nexon EV,41,310,65,78,Bangalore,292
+BYD Atto 3,59,599,36,35,Kolkata,218
+Mahindra XUV400,42,387,35,141,Hyderabad,494
+BYD Atto 3,35,264,66,75,Ahmedabad,507
+BYD Atto 3,33,291,51,123,Delhi,581
+Mahindra XUV400,33,397,63,112,Hyderabad,309
+Tesla Model Y,55,311,84,97,Mumbai,379
+Tata Nexon EV,51,402,79,33,Mumbai,243
+Tesla Model Y,61,593,53,51,Pune,382
+Hyundai Kona,74,367,63,74,Hyderabad,529
+Tesla Model 3,60,597,58,39,Kolkata,531
+Mahindra XUV400,52,363,32,39,Pune,536
+Hyundai Kona,32,450,89,102,Mumbai,425
+Tesla Model 3,58,486,36,36,Delhi,345
+MG ZS EV,75,294,55,118,Delhi,275
+BYD Atto 3,62,559,79,100,Pune,596
+Tata Nexon EV,35,388,65,122,Ahmedabad,450
+Hyundai Kona,47,426,55,95,Pune,532
+BYD Atto 3,38,334,85,39,Hyderabad,454
+Mahindra XUV400,70,438,33,56,Ahmedabad,417
+Hyundai Kona,40,275,64,114,Ahmedabad,458
+Mahindra XUV400,67,320,49,102,Chennai,593
+MG ZS EV,63,386,88,87,Ahmedabad,552
+Nissan Leaf,73,277,85,87,Kolkata,367
+Tesla Model Y,33,348,39,126,Delhi,303
+MG ZS EV,85,403,69,95,Chennai,323
+Tesla Model 3,52,562,54,74,Kolkata,284
+Mahindra XUV400,71,391,31,27,Hyderabad,206
+MG ZS EV,55,381,54,91,Ahmedabad,513
+Hyundai Kona,51,551,59,97,Hyderabad,260
+Nissan Leaf,61,476,47,123,Kolkata,520
+Tesla Model 3,33,522,88,132,Pune,580
+Tesla Model 3,38,422,48,52,Chennai,432
+Nissan Leaf,48,422,49,112,Hyderabad,393
+Hyundai Kona,88,468,77,106,Mumbai,565
+BYD Atto 3,44,354,87,148,Chennai,425
+Mahindra XUV400,43,502,48,32,Pune,547
+MG ZS EV,32,292,66,40,Delhi,289
+Hyundai Kona,70,537,67,75,Bangalore,284
+Mahindra XUV400,53,456,33,62,Bangalore,435
+Tata Nexon EV,41,410,56,84,Pune,438
+Hyundai Kona,42,588,43,58,Mumbai,230
+Mahindra XUV400,45,405,53,69,Chennai,268
+Mahindra XUV400,58,427,89,55,Delhi,339
+BYD Atto 3,41,474,52,96,Mumbai,544
+MG ZS EV,33,529,59,145,Hyderabad,210
+Mahindra XUV400,75,325,40,49,Delhi,384
+Tata Nexon EV,41,334,56,121,Hyderabad,571
+Tesla Model 3,89,254,50,74,Delhi,436
+MG ZS EV,63,305,40,39,Pune,228
+MG ZS EV,88,569,31,58,Kolkata,255
+Tesla Model Y,57,408,46,68,Pune,204
+Tesla Model 3,39,379,74,95,Delhi,388
+Tesla Model 3,46,419,64,135,Mumbai,445
+Tesla Model Y,40,425,64,146,Bangalore,212
+MG ZS EV,84,359,64,136,Ahmedabad,415
+Hyundai Kona,45,490,45,28,Delhi,256
+Mahindra XUV400,35,325,76,67,Ahmedabad,374
+Mahindra XUV400,87,278,69,67,Kolkata,511
+Hyundai Kona,86,585,42,67,Hyderabad,289
+Tesla Model Y,73,482,49,95,Mumbai,340
+Tesla Model 3,47,531,66,32,Bangalore,230
+Hyundai Kona,34,448,82,110,Kolkata,445
+Tesla Model Y,65,426,78,141,Chennai,207
+Tesla Model Y,60,254,38,69,Ahmedabad,542
+BYD Atto 3,81,307,80,138,Hyderabad,318
+Tesla Model 3,56,566,44,144,Ahmedabad,551
+Tata Nexon EV,43,273,41,34,Chennai,431
+Hyundai Kona,46,267,80,44,Pune,400
+Hyundai Kona,45,288,72,139,Chennai,401
+Tesla Model 3,59,419,70,108,Hyderabad,425
+Tesla Model 3,73,585,51,138,Ahmedabad,421
+Tata Nexon EV,39,386,90,138,Mumbai,253
+BYD Atto 3,49,274,67,35,Bangalore,431
+BYD Atto 3,50,393,77,32,Pune,593
+Hyundai Kona,88,391,79,90,Pune,398
+Tesla Model 3,36,398,61,112,Ahmedabad,233
+Mahindra XUV400,35,340,51,150,Mumbai,265
+Nissan Leaf,70,441,84,32,Delhi,345
+Hyundai Kona,86,271,30,136,Kolkata,200
+Tesla Model 3,31,332,42,113,Pune,585
+Tesla Model 3,35,465,77,67,Bangalore,542
+Tesla Model Y,90,516,78,75,Hyderabad,492
+Tesla Model Y,48,283,84,95,Kolkata,379
+MG ZS EV,37,251,70,45,Ahmedabad,566
+Nissan Leaf,61,439,50,36,Mumbai,387
+MG ZS EV,60,527,89,26,Chennai,559
+BYD Atto 3,86,497,38,37,Bangalore,251
+MG ZS EV,39,578,85,88,Ahmedabad,502
+Mahindra XUV400,60,447,62,142,Delhi,525
+Tesla Model Y,69,546,76,126,Bangalore,511
+Tesla Model Y,67,385,53,25,Bangalore,372
+Nissan Leaf,31,356,62,109,Hyderabad,324
+Tesla Model Y,41,497,85,95,Kolkata,482
+Tesla Model 3,41,358,74,133,Bangalore,558
+Tesla Model 3,70,536,89,41,Pune,470
+Nissan Leaf,32,525,35,62,Bangalore,348
+Tesla Model Y,85,483,75,72,Bangalore,479
+MG ZS EV,61,476,71,55,Delhi,552
+Nissan Leaf,39,308,51,145,Ahmedabad,429
+Tata Nexon EV,60,520,37,68,Chennai,491
+Tata Nexon EV,65,402,76,135,Kolkata,221
+MG ZS EV,53,545,66,35,Delhi,404
+BYD Atto 3,35,596,48,39,Ahmedabad,346
+MG ZS EV,37,453,47,40,Ahmedabad,245
+Hyundai Kona,68,336,39,54,Pune,211
+Hyundai Kona,81,408,59,150,Chennai,215
+Mahindra XUV400,57,286,34,35,Pune,234
+Tata Nexon EV,38,293,56,107,Mumbai,333
+Mahindra XUV400,69,386,57,78,Pune,448
+Tesla Model 3,79,557,79,73,Bangalore,328
+Mahindra XUV400,49,379,39,127,Pune,262
+Hyundai Kona,86,467,62,132,Pune,489
+BYD Atto 3,60,588,70,121,Chennai,548
+Tesla Model 3,51,377,51,65,Kolkata,218
+Tesla Model Y,86,578,70,87,Delhi,241
+Tesla Model 3,85,328,40,143,Kolkata,556
+BYD Atto 3,76,395,69,93,Hyderabad,432
+Tesla Model 3,66,447,59,26,Pune,515
+Tesla Model Y,32,394,64,49,Bangalore,568
+Tesla Model 3,50,463,51,56,Chennai,483
+Mahindra XUV400,70,501,51,67,Mumbai,458
+Tata Nexon EV,74,255,42,85,Pune,564
+Nissan Leaf,84,492,88,133,Delhi,338
+Tesla Model Y,43,514,48,138,Mumbai,431
+MG ZS EV,75,590,51,111,Mumbai,260
+BYD Atto 3,83,355,73,148,Bangalore,325
+Nissan Leaf,81,474,69,138,Pune,517
+BYD Atto 3,78,368,67,32,Kolkata,365
+Tesla Model Y,72,306,80,37,Pune,564
+Tata Nexon EV,57,445,36,145,Pune,233
+Tata Nexon EV,51,338,54,61,Hyderabad,449
+BYD Atto 3,37,370,81,136,Pune,392
+Mahindra XUV400,71,443,65,99,Bangalore,483
+Tesla Model Y,68,424,90,29,Bangalore,231
+BYD Atto 3,44,439,47,113,Kolkata,535
+Tesla Model 3,32,354,48,34,Kolkata,390
+Nissan Leaf,33,302,60,56,Delhi,207
+Mahindra XUV400,60,443,41,76,Kolkata,580
+Tata Nexon EV,89,313,79,110,Delhi,498
+Hyundai Kona,76,322,41,130,Pune,204
+BYD Atto 3,89,536,67,43,Kolkata,561
+Tesla Model 3,42,461,53,141,Bangalore,277
+MG ZS EV,63,481,52,115,Mumbai,232
+Hyundai Kona,59,475,68,54,Pune,495
+Mahindra XUV400,80,394,87,130,Chennai,437
+Tesla Model Y,84,575,35,102,Kolkata,577
+Mahindra XUV400,45,431,64,57,Pune,526
+Tesla Model 3,86,373,46,92,Delhi,537
+MG ZS EV,60,327,35,58,Mumbai,368
+Tesla Model Y,68,456,64,66,Mumbai,564
+Hyundai Kona,62,374,70,147,Delhi,230
+BYD Atto 3,38,314,73,75,Delhi,579
+Tesla Model Y,54,419,82,144,Chennai,552
+Hyundai Kona,55,451,47,95,Ahmedabad,293
+BYD Atto 3,78,509,85,86,Kolkata,427
+Nissan Leaf,88,349,31,97,Chennai,481
+BYD Atto 3,73,355,59,149,Chennai,277
+Tesla Model 3,85,375,37,88,Chennai,540
+Nissan Leaf,37,479,77,149,Mumbai,341
+Tata Nexon EV,54,374,69,106,Hyderabad,268
+Tesla Model Y,34,459,47,34,Chennai,390
+Tesla Model Y,67,449,40,148,Pune,436
+BYD Atto 3,33,306,76,87,Chennai,363
+BYD Atto 3,87,334,75,139,Chennai,306
+Tata Nexon EV,60,499,87,91,Chennai,212
+MG ZS EV,30,570,35,133,Bangalore,574
+Tesla Model 3,88,367,79,113,Delhi,466
+Tata Nexon EV,51,367,53,55,Delhi,539
+Tata Nexon EV,66,584,64,34,Kolkata,378
+Tesla Model 3,87,334,83,103,Pune,264
+Tesla Model 3,74,558,41,53,Bangalore,380
+Tesla Model Y,63,546,65,99,Hyderabad,393
+BYD Atto 3,52,587,36,105,Hyderabad,477
+Tesla Model 3,57,399,59,106,Pune,524
+Nissan Leaf,53,539,82,69,Pune,502
+Tesla Model Y,77,585,79,92,Delhi,535
+MG ZS EV,58,409,80,141,Hyderabad,209
+Mahindra XUV400,42,259,65,150,Bangalore,237
+BYD Atto 3,71,394,32,114,Kolkata,538
+Hyundai Kona,50,394,71,75,Delhi,444
+BYD Atto 3,45,513,66,45,Bangalore,399
+Mahindra XUV400,59,510,47,130,Pune,415
+Tesla Model 3,32,538,45,96,Delhi,233
+Tesla Model Y,62,576,44,48,Kolkata,263
+Tesla Model 3,76,418,80,148,Hyderabad,316
+Nissan Leaf,73,428,84,134,Mumbai,579
+Tesla Model 3,34,386,82,29,Hyderabad,254
+Tesla Model 3,33,598,57,126,Hyderabad,574
+Tesla Model Y,68,572,37,71,Delhi,496
+Tesla Model 3,65,266,79,84,Bangalore,434
+Tata Nexon EV,34,539,44,146,Bangalore,516
+Nissan Leaf,52,383,84,85,Ahmedabad,449
+BYD Atto 3,38,273,46,102,Bangalore,410
+Tesla Model Y,82,559,88,79,Ahmedabad,291
+Tesla Model 3,57,342,86,104,Mumbai,556
+Mahindra XUV400,84,346,72,58,Hyderabad,230
+Hyundai Kona,86,253,37,101,Pune,354
+Mahindra XUV400,79,418,67,145,Kolkata,359
+Tesla Model Y,49,418,72,146,Kolkata,356
+BYD Atto 3,40,395,79,67,Hyderabad,553
+MG ZS EV,43,587,71,111,Bangalore,580
+Hyundai Kona,56,324,77,105,Ahmedabad,463
+Tesla Model Y,66,537,32,107,Ahmedabad,597
+BYD Atto 3,53,516,30,133,Kolkata,502
+Nissan Leaf,42,475,67,123,Hyderabad,347
+Tata Nexon EV,71,553,88,47,Kolkata,500
+BYD Atto 3,84,487,70,47,Kolkata,465
+Nissan Leaf,85,409,84,28,Pune,230
+BYD Atto 3,85,287,63,86,Pune,216
+Tesla Model 3,55,366,79,97,Delhi,355
+Tesla Model 3,76,270,66,134,Chennai,527
+MG ZS EV,54,598,89,105,Kolkata,401
+Nissan Leaf,41,279,41,134,Delhi,238
+MG ZS EV,38,416,50,64,Bangalore,252
+Tata Nexon EV,78,394,60,56,Hyderabad,240
+MG ZS EV,30,350,79,103,Kolkata,400
+MG ZS EV,45,384,85,34,Delhi,227
+Tata Nexon EV,84,275,39,71,Pune,456
+Hyundai Kona,41,473,86,63,Hyderabad,347
+BYD Atto 3,89,478,46,63,Delhi,557
+Tata Nexon EV,40,580,74,90,Ahmedabad,303
+Hyundai Kona,55,404,73,109,Ahmedabad,205
+Hyundai Kona,84,476,59,116,Chennai,486
+MG ZS EV,51,290,88,61,Pune,279
+Tesla Model 3,82,541,72,82,Ahmedabad,422
+MG ZS EV,31,274,39,141,Chennai,260
+BYD Atto 3,59,335,55,70,Pune,226
+Tesla Model Y,40,552,63,88,Mumbai,488
+Tesla Model Y,75,587,87,141,Chennai,389
+Mahindra XUV400,67,312,45,60,Bangalore,232
+Mahindra XUV400,71,458,38,79,Hyderabad,262
+Tata Nexon EV,34,582,71,82,Hyderabad,521
+MG ZS EV,43,359,90,119,Hyderabad,420
+Nissan Leaf,31,261,74,110,Delhi,433
+Mahindra XUV400,71,403,62,38,Chennai,490
+Mahindra XUV400,88,337,86,51,Hyderabad,242
+Tata Nexon EV,42,566,57,131,Ahmedabad,330
+Mahindra XUV400,76,519,68,89,Bangalore,278
+Hyundai Kona,90,318,85,82,Chennai,505
+Tesla Model Y,81,448,45,37,Mumbai,369
+Mahindra XUV400,58,535,78,145,Pune,301
+Tesla Model Y,45,478,32,120,Kolkata,249
+Mahindra XUV400,77,492,42,115,Mumbai,246
+Mahindra XUV400,60,384,56,92,Delhi,528
+Tata Nexon EV,33,388,67,55,Bangalore,569
+Tesla Model Y,89,512,37,131,Mumbai,234
+Nissan Leaf,55,303,63,64,Hyderabad,478
+MG ZS EV,54,403,90,56,Bangalore,332
+BYD Atto 3,85,444,78,87,Ahmedabad,477
+Hyundai Kona,61,434,54,127,Ahmedabad,205
+Nissan Leaf,40,519,35,71,Delhi,540
+Tesla Model 3,48,528,79,34,Chennai,336
+BYD Atto 3,83,548,52,101,Hyderabad,306
+Tesla Model 3,70,346,58,96,Chennai,431
+Tesla Model 3,36,377,70,80,Hyderabad,508
+Nissan Leaf,32,429,86,76,Chennai,240
+Tesla Model Y,66,353,87,40,Chennai,246
+Nissan Leaf,74,307,60,137,Ahmedabad,423
+Nissan Leaf,54,350,31,124,Hyderabad,468
+MG ZS EV,67,401,63,28,Ahmedabad,329
+Hyundai Kona,48,444,54,128,Pune,453
+Tata Nexon EV,83,559,75,38,Mumbai,371
+Nissan Leaf,57,278,46,26,Pune,272
+Tata Nexon EV,60,333,79,108,Pune,334
+Tesla Model 3,75,376,33,143,Kolkata,251
+Tata Nexon EV,35,279,81,30,Ahmedabad,262
+Tesla Model Y,73,446,68,79,Bangalore,531
+BYD Atto 3,59,513,72,132,Delhi,591
+MG ZS EV,69,262,80,35,Chennai,299
+Hyundai Kona,69,528,73,119,Delhi,338
+Mahindra XUV400,35,271,66,149,Mumbai,486
+Nissan Leaf,69,429,74,60,Mumbai,451
+Mahindra XUV400,62,323,90,135,Hyderabad,309
+Tesla Model 3,56,528,72,82,Ahmedabad,550
+Tesla Model Y,60,508,64,113,Mumbai,327
+Hyundai Kona,55,471,61,115,Pune,370
+Tata Nexon EV,50,262,56,114,Chennai,502
+BYD Atto 3,89,574,76,109,Ahmedabad,545
+MG ZS EV,88,480,83,146,Ahmedabad,281
+MG ZS EV,67,331,52,111,Ahmedabad,401
+Hyundai Kona,53,364,34,73,Chennai,503
+Nissan Leaf,57,314,73,59,Ahmedabad,276
+Tata Nexon EV,61,258,50,132,Chennai,209
+Tesla Model 3,87,289,46,65,Pune,550
+Tesla Model Y,47,257,72,53,Chennai,464
+Hyundai Kona,42,393,86,40,Ahmedabad,579
+BYD Atto 3,60,569,49,117,Kolkata,525
+Mahindra XUV400,90,450,69,67,Bangalore,398
+Tesla Model 3,88,551,61,55,Kolkata,446
+Tata Nexon EV,84,589,47,141,Chennai,280
+Nissan Leaf,37,528,53,40,Bangalore,403
+Tesla Model 3,46,482,51,132,Pune,297
+Nissan Leaf,35,508,36,50,Pune,529
+Tesla Model 3,53,503,61,37,Hyderabad,252
+BYD Atto 3,41,481,60,50,Hyderabad,519
+Mahindra XUV400,64,257,34,139,Chennai,266
+MG ZS EV,64,468,43,89,Bangalore,497
+Hyundai Kona,33,270,44,38,Mumbai,212
+Tesla Model 3,55,452,79,25,Hyderabad,544
+Hyundai Kona,48,565,64,74,Pune,311
+MG ZS EV,57,260,32,136,Mumbai,308
+Tesla Model Y,56,426,67,94,Kolkata,409
+MG ZS EV,87,422,52,125,Bangalore,532
+MG ZS EV,90,290,34,105,Pune,433
+BYD Atto 3,84,251,30,134,Kolkata,295
+Nissan Leaf,79,321,62,90,Chennai,550
+Tesla Model 3,88,344,54,118,Chennai,468
+Nissan Leaf,58,290,64,99,Pune,212
+Tesla Model 3,57,545,48,31,Mumbai,586
+Tesla Model Y,53,472,74,101,Chennai,322
+Mahindra XUV400,36,318,82,55,Kolkata,388
+Tata Nexon EV,83,440,70,59,Delhi,419
+Tesla Model Y,70,391,44,109,Ahmedabad,472
+Tesla Model 3,47,371,62,80,Hyderabad,327
+MG ZS EV,81,558,32,93,Mumbai,268
+Hyundai Kona,76,438,48,99,Mumbai,338
+Mahindra XUV400,83,286,39,130,Pune,210
+Nissan Leaf,76,378,71,126,Mumbai,418
+MG ZS EV,53,308,64,111,Hyderabad,326
+Mahindra XUV400,49,512,30,87,Delhi,377
+Tata Nexon EV,36,405,34,80,Hyderabad,394
+BYD Atto 3,60,522,88,68,Chennai,528
+Hyundai Kona,53,543,88,134,Chennai,304
+Tata Nexon EV,41,339,64,100,Hyderabad,322
+Nissan Leaf,63,281,64,52,Chennai,455
+Mahindra XUV400,68,350,75,130,Ahmedabad,420
+Tesla Model Y,33,408,72,31,Bangalore,536
+Tesla Model 3,39,314,82,91,Delhi,286
+MG ZS EV,51,537,72,48,Hyderabad,380
+BYD Atto 3,51,596,48,111,Delhi,327
+Nissan Leaf,47,373,82,129,Kolkata,491
+Nissan Leaf,71,360,90,107,Kolkata,555
+BYD Atto 3,40,290,42,118,Delhi,385
+Mahindra XUV400,82,436,83,61,Bangalore,259
+Tata Nexon EV,74,332,51,120,Kolkata,351
+Tesla Model 3,53,392,43,77,Kolkata,579
+Nissan Leaf,60,373,41,29,Bangalore,480
+Nissan Leaf,46,504,84,75,Mumbai,369
+BYD Atto 3,47,516,70,90,Ahmedabad,382
+Tata Nexon EV,37,389,63,93,Pune,345
+Tesla Model 3,84,490,87,64,Chennai,522
+Tata Nexon EV,47,583,51,55,Bangalore,578
+Hyundai Kona,45,326,83,91,Kolkata,481
+Nissan Leaf,70,435,84,84,Kolkata,546
+BYD Atto 3,82,519,30,51,Pune,525
+BYD Atto 3,54,540,65,84,Bangalore,466
+Mahindra XUV400,81,302,87,127,Pune,312
+BYD Atto 3,67,307,69,105,Bangalore,567
+BYD Atto 3,66,520,81,105,Pune,421
+MG ZS EV,58,279,56,51,Kolkata,492
+Nissan Leaf,48,411,88,62,Ahmedabad,430
+MG ZS EV,70,279,90,41,Ahmedabad,400
+Tata Nexon EV,40,458,33,139,Chennai,495
+Tata Nexon EV,53,522,41,50,Kolkata,574
+BYD Atto 3,73,279,71,62,Bangalore,509
+Nissan Leaf,59,336,55,131,Chennai,501
+Tata Nexon EV,71,588,44,93,Pune,202
+Tata Nexon EV,32,339,44,100,Bangalore,435
+Nissan Leaf,45,558,35,37,Mumbai,347
+Hyundai Kona,49,308,62,72,Delhi,514
+Tata Nexon EV,67,578,50,52,Mumbai,420
+BYD Atto 3,71,308,46,89,Kolkata,421
+Hyundai Kona,66,554,46,55,Mumbai,259
+Nissan Leaf,86,393,76,78,Pune,262
+Hyundai Kona,31,406,85,139,Pune,229
+Tesla Model 3,64,596,79,36,Kolkata,342
+Nissan Leaf,90,377,47,150,Kolkata,488
+Tesla Model Y,43,585,83,94,Delhi,212
+Hyundai Kona,58,465,53,36,Mumbai,457
+BYD Atto 3,71,317,60,40,Kolkata,366
+Hyundai Kona,39,324,86,42,Bangalore,390
+MG ZS EV,32,266,67,128,Chennai,386
+BYD Atto 3,78,552,61,49,Bangalore,450
+Tesla Model Y,37,434,34,124,Ahmedabad,202
+Nissan Leaf,52,391,62,74,Chennai,411
+Tesla Model 3,89,543,45,92,Delhi,502
+Tesla Model 3,84,563,83,59,Chennai,565
+Tata Nexon EV,50,345,87,98,Pune,408
+Hyundai Kona,59,256,47,36,Mumbai,429
+Mahindra XUV400,62,285,50,127,Bangalore,242
+Nissan Leaf,85,576,78,126,Pune,280
+BYD Atto 3,57,520,53,101,Hyderabad,567
+Tesla Model Y,45,488,87,91,Mumbai,300
+MG ZS EV,90,309,55,149,Mumbai,478
+BYD Atto 3,31,585,62,59,Ahmedabad,578
+Tata Nexon EV,77,256,35,134,Kolkata,394
+MG ZS EV,76,415,50,132,Mumbai,466
+MG ZS EV,84,311,49,70,Chennai,377
+MG ZS EV,71,319,41,33,Bangalore,582
+Tesla Model Y,50,436,81,52,Ahmedabad,242
+Tesla Model Y,33,416,42,73,Pune,208
+Tesla Model 3,35,409,66,138,Bangalore,355
+Tesla Model 3,48,293,84,67,Bangalore,367
+Tesla Model 3,34,437,89,92,Delhi,439
+Tesla Model 3,59,479,48,113,Delhi,403
+BYD Atto 3,79,579,84,117,Hyderabad,530
+BYD Atto 3,37,348,43,142,Ahmedabad,501
+Tesla Model 3,90,592,77,97,Bangalore,539
+BYD Atto 3,62,395,80,146,Hyderabad,544
+Mahindra XUV400,62,464,37,54,Kolkata,489
+MG ZS EV,75,320,70,46,Ahmedabad,482
+Mahindra XUV400,30,494,62,95,Ahmedabad,390
+Tata Nexon EV,90,350,66,47,Mumbai,232
+Nissan Leaf,32,277,33,59,Pune,270
+BYD Atto 3,82,353,75,119,Pune,572
+Hyundai Kona,61,566,55,113,Mumbai,328
+Mahindra XUV400,47,557,88,81,Mumbai,576
+Nissan Leaf,39,279,48,145,Bangalore,424
+Nissan Leaf,30,415,65,94,Delhi,526
+Tata Nexon EV,69,291,73,104,Delhi,217
+BYD Atto 3,77,384,68,127,Mumbai,247
+BYD Atto 3,51,415,57,126,Mumbai,269
+Mahindra XUV400,82,255,37,147,Kolkata,299
+Mahindra XUV400,72,478,41,113,Chennai,365
+BYD Atto 3,31,583,38,136,Pune,461
+Hyundai Kona,65,254,45,130,Delhi,483
+MG ZS EV,86,548,65,137,Bangalore,579
+Nissan Leaf,70,546,77,79,Ahmedabad,291
+Tesla Model 3,77,416,36,142,Kolkata,268
+BYD Atto 3,80,577,46,73,Ahmedabad,550
+Tata Nexon EV,76,369,78,110,Ahmedabad,371
+MG ZS EV,39,448,53,134,Chennai,368
+Nissan Leaf,68,586,45,63,Mumbai,477
+Tesla Model 3,44,447,38,60,Hyderabad,393
+MG ZS EV,74,488,40,47,Hyderabad,449
+Tesla Model 3,67,425,84,116,Bangalore,535
+Tata Nexon EV,69,358,30,51,Mumbai,273
+Hyundai Kona,80,407,90,47,Hyderabad,599
+Tata Nexon EV,76,397,84,102,Hyderabad,333
+Mahindra XUV400,42,403,77,82,Delhi,211
+Mahindra XUV400,89,287,64,134,Hyderabad,361
+Hyundai Kona,33,451,54,119,Hyderabad,271
+Mahindra XUV400,87,323,36,109,Mumbai,301
+Nissan Leaf,53,566,70,128,Ahmedabad,294
+Tata Nexon EV,85,553,75,149,Ahmedabad,328
+BYD Atto 3,32,414,49,145,Kolkata,421
+Mahindra XUV400,75,497,85,57,Ahmedabad,571
+Mahindra XUV400,73,369,86,118,Pune,446
+BYD Atto 3,34,353,67,122,Kolkata,232
+Tata Nexon EV,83,525,31,100,Pune,328
+MG ZS EV,49,304,62,54,Ahmedabad,203
+Tesla Model 3,54,326,89,137,Hyderabad,572
+Hyundai Kona,56,251,70,70,Mumbai,586
+Mahindra XUV400,68,445,58,109,Bangalore,470
+MG ZS EV,89,294,69,143,Delhi,204
+Hyundai Kona,86,498,40,86,Bangalore,562
+Nissan Leaf,88,297,82,35,Mumbai,480
+Hyundai Kona,31,275,85,144,Chennai,292
+Tata Nexon EV,69,281,43,38,Kolkata,334
+Nissan Leaf,79,389,80,61,Bangalore,357
+Tesla Model 3,57,541,61,34,Mumbai,421
+BYD Atto 3,57,524,81,84,Delhi,299
+Tesla Model Y,79,274,78,96,Bangalore,426
+MG ZS EV,41,354,66,85,Ahmedabad,304
+BYD Atto 3,39,501,74,147,Bangalore,339
+BYD Atto 3,54,401,67,107,Kolkata,356
+Nissan Leaf,52,333,32,31,Hyderabad,221
+Hyundai Kona,54,550,43,63,Delhi,457
+Tata Nexon EV,87,264,77,143,Pune,349
+Mahindra XUV400,38,557,66,135,Bangalore,437
+Nissan Leaf,34,339,68,130,Ahmedabad,546
+Tesla Model Y,39,273,53,57,Pune,546
+Mahindra XUV400,72,476,31,38,Ahmedabad,542
+Hyundai Kona,46,356,47,148,Bangalore,598
+Tesla Model Y,45,499,61,149,Bangalore,252
+Mahindra XUV400,54,469,79,89,Pune,591
+BYD Atto 3,76,538,79,104,Bangalore,450
+Nissan Leaf,54,390,69,38,Chennai,317
+MG ZS EV,46,552,54,119,Delhi,358
+Tata Nexon EV,82,575,56,74,Mumbai,397
+MG ZS EV,45,547,57,84,Kolkata,278
+Tata Nexon EV,82,476,39,91,Delhi,204
+Nissan Leaf,62,356,31,144,Ahmedabad,476
+Hyundai Kona,46,446,83,136,Chennai,422
+BYD Atto 3,53,428,58,110,Hyderabad,224
+Tesla Model Y,88,352,31,64,Pune,348
+Tata Nexon EV,50,565,34,32,Pune,591
+Tata Nexon EV,80,566,70,77,Ahmedabad,252
+Tesla Model 3,88,331,89,119,Pune,359
+Mahindra XUV400,53,398,64,130,Chennai,324
+Tesla Model 3,87,275,47,55,Chennai,356
+Tesla Model 3,37,405,81,35,Kolkata,265
+Tesla Model 3,41,289,81,64,Chennai,470
+BYD Atto 3,40,539,79,130,Bangalore,291
+Hyundai Kona,43,581,82,80,Delhi,409
+Tesla Model Y,50,322,34,30,Delhi,327
+Mahindra XUV400,54,317,42,128,Pune,409
+Mahindra XUV400,32,432,30,127,Mumbai,548
+Tesla Model 3,51,529,90,82,Pune,309
+Tesla Model Y,71,288,60,42,Mumbai,423
+MG ZS EV,67,420,74,64,Kolkata,409
+Tata Nexon EV,31,533,86,137,Mumbai,547
+Nissan Leaf,34,311,43,65,Pune,472
+Mahindra XUV400,64,585,70,44,Hyderabad,429
+Mahindra XUV400,58,460,84,99,Mumbai,418
+MG ZS EV,50,425,39,53,Hyderabad,376
+BYD Atto 3,69,292,71,67,Hyderabad,581
+MG ZS EV,38,521,58,78,Mumbai,378
+Tata Nexon EV,78,576,83,149,Ahmedabad,552
+Tesla Model 3,48,563,74,121,Kolkata,234
+Nissan Leaf,86,386,57,27,Hyderabad,493
+Tata Nexon EV,52,473,30,76,Mumbai,322
+Hyundai Kona,38,300,86,118,Hyderabad,530
+Nissan Leaf,55,535,48,86,Mumbai,578
+Nissan Leaf,69,331,60,139,Hyderabad,270
+Mahindra XUV400,76,549,65,103,Ahmedabad,559
+Mahindra XUV400,83,599,59,113,Ahmedabad,232
+MG ZS EV,54,560,39,111,Delhi,312
+Nissan Leaf,48,508,57,102,Delhi,246
+Nissan Leaf,86,598,86,133,Ahmedabad,306
+MG ZS EV,52,342,44,122,Chennai,300
+Hyundai Kona,52,594,71,113,Ahmedabad,541
+Hyundai Kona,33,433,77,127,Bangalore,353
+Mahindra XUV400,43,550,46,25,Mumbai,256
+MG ZS EV,31,381,73,140,Delhi,242
+Mahindra XUV400,55,489,84,91,Pune,325
+Tesla Model Y,39,419,68,97,Mumbai,498
+Mahindra XUV400,55,322,44,102,Delhi,431
+BYD Atto 3,79,455,59,128,Pune,324
+Tesla Model Y,50,399,84,38,Chennai,314
+Hyundai Kona,60,367,47,36,Mumbai,530
+Hyundai Kona,60,264,69,132,Bangalore,341
+Tesla Model Y,33,312,45,60,Ahmedabad,513
+BYD Atto 3,35,262,37,86,Bangalore,246
+Tesla Model 3,61,261,90,149,Mumbai,441
+Tesla Model Y,51,403,48,79,Mumbai,520
+BYD Atto 3,43,497,54,99,Ahmedabad,239
+Tata Nexon EV,87,484,49,147,Chennai,201
+Tesla Model 3,75,446,65,145,Bangalore,327
+Mahindra XUV400,58,456,87,111,Bangalore,279
+Tesla Model Y,51,356,80,102,Kolkata,224
+Hyundai Kona,44,507,68,25,Bangalore,303
+MG ZS EV,30,431,89,61,Pune,531
+Tata Nexon EV,69,400,61,110,Mumbai,564
+Tata Nexon EV,47,333,37,101,Delhi,413
+Tesla Model 3,41,513,75,79,Mumbai,219
+Tata Nexon EV,46,421,45,123,Kolkata,435
+Tesla Model Y,76,268,31,121,Ahmedabad,570
+Tesla Model Y,39,497,43,97,Delhi,308
+BYD Atto 3,48,535,78,126,Kolkata,498
+Hyundai Kona,54,525,58,135,Kolkata,482
+Tata Nexon EV,32,381,38,99,Delhi,267
+Hyundai Kona,51,381,65,91,Hyderabad,507
+Tesla Model Y,78,552,86,148,Pune,411
+Nissan Leaf,31,366,86,112,Hyderabad,224
+Tesla Model 3,49,378,55,44,Mumbai,293
+Nissan Leaf,58,295,61,66,Mumbai,279
+Mahindra XUV400,64,327,68,146,Hyderabad,458
+Tesla Model 3,82,270,72,141,Hyderabad,273
+Tata Nexon EV,79,586,75,37,Hyderabad,461
+BYD Atto 3,73,510,62,103,Chennai,501
+Tesla Model 3,48,457,85,124,Hyderabad,314
+Mahindra XUV400,50,442,72,82,Kolkata,229
+BYD Atto 3,53,369,69,82,Chennai,237
+Nissan Leaf,88,293,49,116,Chennai,476
+Tesla Model 3,44,515,46,123,Chennai,405
+Nissan Leaf,55,390,84,140,Bangalore,453
+Mahindra XUV400,57,588,66,99,Ahmedabad,394
+Mahindra XUV400,61,573,51,90,Ahmedabad,476
+BYD Atto 3,85,527,85,126,Chennai,541
+Nissan Leaf,33,482,63,93,Hyderabad,488
+Hyundai Kona,50,503,48,107,Bangalore,366
+Mahindra XUV400,47,372,81,120,Bangalore,521
+Hyundai Kona,88,304,85,38,Pune,323
+Hyundai Kona,57,559,84,83,Delhi,521
+Tesla Model Y,60,496,58,29,Bangalore,277
+BYD Atto 3,38,419,36,55,Hyderabad,373
+BYD Atto 3,43,351,65,103,Mumbai,378
+Hyundai Kona,32,515,34,70,Delhi,518
+Tata Nexon EV,78,535,87,80,Mumbai,507
+Nissan Leaf,64,587,30,93,Pune,254
+Tesla Model Y,80,573,66,29,Hyderabad,468
+Tata Nexon EV,82,529,64,69,Bangalore,389
+MG ZS EV,54,372,85,79,Hyderabad,490
+Tata Nexon EV,79,587,63,36,Bangalore,320
+BYD Atto 3,53,347,79,62,Bangalore,401
+BYD Atto 3,70,308,74,68,Ahmedabad,297
+Tesla Model Y,90,494,62,95,Hyderabad,236
+BYD Atto 3,43,340,86,55,Pune,239
+Mahindra XUV400,73,536,58,64,Bangalore,326
+Tesla Model 3,61,285,52,46,Mumbai,342
+Tesla Model Y,74,505,77,35,Bangalore,572
+BYD Atto 3,81,513,42,132,Pune,202
+Hyundai Kona,65,474,88,122,Mumbai,536
+MG ZS EV,40,428,33,149,Kolkata,320
+Mahindra XUV400,74,406,46,29,Mumbai,469
+BYD Atto 3,33,596,46,38,Ahmedabad,207
+Mahindra XUV400,33,414,69,104,Mumbai,420
+Mahindra XUV400,88,425,90,116,Ahmedabad,533
+MG ZS EV,38,282,44,51,Delhi,495
+Mahindra XUV400,55,400,42,119,Delhi,446
+Tesla Model Y,69,416,55,133,Delhi,403
+MG ZS EV,56,417,55,138,Kolkata,520
+Tesla Model Y,59,566,58,40,Chennai,287
+Tesla Model Y,87,531,49,48,Ahmedabad,211
+Mahindra XUV400,46,250,37,143,Kolkata,308
+Tata Nexon EV,53,450,53,103,Pune,384
+Mahindra XUV400,34,517,51,122,Mumbai,328
+BYD Atto 3,73,581,86,90,Ahmedabad,320
+BYD Atto 3,89,530,73,120,Pune,522
+Tesla Model 3,68,491,45,96,Bangalore,515
+BYD Atto 3,50,294,88,124,Chennai,544
+Hyundai Kona,43,373,81,26,Mumbai,318
+Nissan Leaf,62,267,84,54,Ahmedabad,453
+Hyundai Kona,68,495,41,99,Kolkata,346
+Mahindra XUV400,79,367,70,140,Ahmedabad,283
+Tata Nexon EV,68,389,57,74,Ahmedabad,273
+MG ZS EV,61,332,70,140,Kolkata,379
+Hyundai Kona,70,475,46,74,Bangalore,429
+Hyundai Kona,35,469,65,150,Delhi,406
+BYD Atto 3,82,526,76,111,Bangalore,385
+Nissan Leaf,84,407,38,121,Bangalore,567
+Hyundai Kona,66,298,81,63,Kolkata,553
+Nissan Leaf,57,308,68,141,Bangalore,212
+BYD Atto 3,50,472,50,149,Pune,381
+Tata Nexon EV,74,540,40,51,Mumbai,240
+Tesla Model 3,31,490,77,79,Kolkata,342
+Tata Nexon EV,76,337,85,75,Ahmedabad,593
+MG ZS EV,85,283,70,46,Mumbai,323
+BYD Atto 3,40,291,90,132,Hyderabad,579
+Tesla Model 3,32,475,33,39,Chennai,232
+Hyundai Kona,53,424,37,70,Pune,515
+Hyundai Kona,32,401,53,141,Delhi,574
+Mahindra XUV400,35,418,77,135,Chennai,205
+Tesla Model 3,71,396,90,60,Bangalore,396
+BYD Atto 3,60,329,73,130,Hyderabad,391
+Hyundai Kona,86,520,52,34,Delhi,425
+MG ZS EV,89,357,88,89,Delhi,313
+Tata Nexon EV,39,466,89,25,Bangalore,578
+Nissan Leaf,53,365,38,74,Kolkata,446
+MG ZS EV,81,332,51,83,Delhi,274
+MG ZS EV,40,448,52,31,Bangalore,410
+Tesla Model Y,45,275,74,150,Bangalore,269
+Nissan Leaf,88,264,85,125,Ahmedabad,459
+Nissan Leaf,73,366,62,107,Hyderabad,214
+MG ZS EV,60,559,38,51,Bangalore,534
+Mahindra XUV400,37,328,87,51,Ahmedabad,221
+BYD Atto 3,51,543,36,105,Mumbai,446
+Hyundai Kona,62,476,41,47,Pune,332
+Tesla Model Y,60,330,73,143,Kolkata,217
+Hyundai Kona,58,261,33,56,Hyderabad,349
+Mahindra XUV400,40,598,34,115,Delhi,526
+MG ZS EV,45,291,69,101,Bangalore,453
+Tata Nexon EV,72,504,34,87,Kolkata,377
+MG ZS EV,77,408,58,51,Mumbai,276
+Tata Nexon EV,52,423,37,134,Ahmedabad,497
+Tata Nexon EV,56,305,57,54,Mumbai,202
+BYD Atto 3,61,547,40,132,Hyderabad,353
+BYD Atto 3,88,257,62,131,Ahmedabad,291
+Hyundai Kona,65,445,40,81,Bangalore,270
+BYD Atto 3,44,282,30,138,Pune,584
+Hyundai Kona,71,269,80,136,Mumbai,532
+Tesla Model Y,56,250,63,121,Ahmedabad,369
+Tesla Model 3,70,539,41,34,Hyderabad,261
+Tesla Model Y,36,290,52,32,Bangalore,217
+Tesla Model 3,39,274,48,93,Pune,584
+Nissan Leaf,73,472,36,70,Kolkata,250
+Mahindra XUV400,32,356,56,46,Pune,239
+Tesla Model Y,40,580,86,28,Ahmedabad,486
+BYD Atto 3,59,432,81,142,Bangalore,337
+Nissan Leaf,53,342,46,132,Kolkata,290
+Hyundai Kona,46,344,59,70,Bangalore,271
+Tata Nexon EV,55,443,71,29,Hyderabad,386
+Tesla Model 3,85,443,30,52,Delhi,247
+Tata Nexon EV,36,309,34,88,Mumbai,506
+Mahindra XUV400,75,536,42,139,Pune,507
+Mahindra XUV400,52,439,48,69,Bangalore,369
+Tesla Model 3,80,548,87,36,Chennai,379
+Tesla Model Y,71,590,32,143,Hyderabad,498
+Tesla Model Y,83,277,41,52,Pune,213
+Hyundai Kona,48,328,44,150,Delhi,568
+Tesla Model 3,30,258,52,85,Kolkata,251
+BYD Atto 3,44,259,75,146,Kolkata,236
+Nissan Leaf,58,294,47,132,Ahmedabad,519
+MG ZS EV,42,467,74,128,Mumbai,400
+Mahindra XUV400,50,467,85,107,Pune,249
+Tesla Model 3,30,320,83,117,Ahmedabad,353
+Tata Nexon EV,76,345,63,133,Chennai,497
+BYD Atto 3,52,600,78,25,Kolkata,544
+Nissan Leaf,37,560,56,142,Chennai,545
+Nissan Leaf,68,387,30,110,Chennai,371
+Mahindra XUV400,32,529,86,82,Kolkata,545
+Tesla Model Y,54,375,39,40,Pune,535
+Tata Nexon EV,66,490,49,129,Bangalore,522
+Hyundai Kona,65,576,56,38,Ahmedabad,313
+Tata Nexon EV,54,284,44,144,Kolkata,395
+BYD Atto 3,30,293,55,81,Pune,336
+Mahindra XUV400,54,337,77,130,Ahmedabad,308
+Mahindra XUV400,54,436,86,113,Hyderabad,429
+Tata Nexon EV,51,328,55,62,Pune,464
+Tesla Model 3,55,461,38,110,Chennai,441
+Mahindra XUV400,71,570,61,104,Chennai,372
+MG ZS EV,50,285,85,131,Delhi,349
+Hyundai Kona,33,571,72,113,Pune,401
+Mahindra XUV400,52,373,76,68,Hyderabad,375
+Tesla Model Y,61,503,39,32,Ahmedabad,448
+BYD Atto 3,64,543,88,120,Delhi,420
+Hyundai Kona,65,525,71,45,Delhi,586
+Hyundai Kona,82,333,62,58,Bangalore,546
+MG ZS EV,87,401,85,32,Mumbai,473
+BYD Atto 3,48,600,63,83,Ahmedabad,494
+Mahindra XUV400,89,449,48,127,Ahmedabad,368
+Tesla Model Y,83,372,39,128,Chennai,491
+Tesla Model 3,68,465,70,32,Pune,457
+MG ZS EV,55,356,52,105,Ahmedabad,405
+Tesla Model Y,81,435,54,49,Pune,526
+Hyundai Kona,43,287,88,61,Delhi,237
+Tesla Model 3,83,472,31,125,Kolkata,594
+Tata Nexon EV,32,381,34,86,Kolkata,237
+Tata Nexon EV,42,541,40,101,Pune,563
+Tata Nexon EV,34,358,62,72,Delhi,209
+Nissan Leaf,72,282,38,113,Delhi,336
+BYD Atto 3,40,516,75,64,Kolkata,581
+Mahindra XUV400,58,447,52,101,Chennai,245
+MG ZS EV,53,319,78,38,Hyderabad,589
+Tesla Model Y,32,374,83,107,Chennai,562
+MG ZS EV,83,309,59,93,Ahmedabad,536
+Tata Nexon EV,51,519,36,84,Pune,506
+Tesla Model 3,82,428,79,85,Delhi,302
+BYD Atto 3,37,476,75,87,Kolkata,403
+MG ZS EV,74,271,54,27,Hyderabad,314
+Nissan Leaf,57,504,85,61,Hyderabad,370
+MG ZS EV,58,379,67,42,Hyderabad,598
+MG ZS EV,44,599,73,38,Ahmedabad,459
+Nissan Leaf,86,380,85,92,Kolkata,230
+Nissan Leaf,82,593,58,143,Kolkata,493
+Tesla Model Y,53,548,90,59,Pune,219
+Tesla Model 3,57,298,41,140,Mumbai,288
+MG ZS EV,79,575,37,139,Ahmedabad,281
+Tesla Model Y,42,427,34,123,Hyderabad,542
+Hyundai Kona,41,399,60,98,Bangalore,433
+Tesla Model 3,81,384,33,150,Mumbai,437
+Tata Nexon EV,90,309,65,33,Kolkata,421
+MG ZS EV,57,310,78,47,Bangalore,372
+BYD Atto 3,57,379,90,89,Ahmedabad,242
+MG ZS EV,83,476,45,49,Kolkata,274
+Mahindra XUV400,79,401,43,56,Mumbai,378
+Tesla Model 3,86,493,38,60,Ahmedabad,371
+MG ZS EV,57,524,82,103,Hyderabad,235
+MG ZS EV,81,358,77,123,Chennai,493
+Hyundai Kona,66,476,61,112,Chennai,232
+Hyundai Kona,52,334,56,105,Pune,300
+Tesla Model Y,45,317,33,66,Ahmedabad,457
+Tesla Model Y,31,546,52,116,Kolkata,211
+BYD Atto 3,31,420,67,71,Ahmedabad,388
+MG ZS EV,46,521,72,73,Delhi,239
+Hyundai Kona,81,559,56,42,Chennai,414
+Tesla Model 3,65,268,67,39,Mumbai,411
+Hyundai Kona,30,391,52,126,Hyderabad,543
+MG ZS EV,48,360,88,91,Ahmedabad,421
+Tesla Model Y,87,324,62,96,Bangalore,315
+Mahindra XUV400,76,291,86,139,Bangalore,387
+BYD Atto 3,72,328,53,130,Bangalore,316
+BYD Atto 3,75,464,67,32,Delhi,400
+Tata Nexon EV,89,307,58,40,Mumbai,504
+Tata Nexon EV,35,570,64,105,Hyderabad,481
+BYD Atto 3,72,418,37,122,Pune,546
+Tesla Model Y,48,366,74,99,Bangalore,220
+MG ZS EV,47,289,65,30,Hyderabad,501
+Hyundai Kona,66,407,83,94,Chennai,563
+Mahindra XUV400,75,303,40,36,Bangalore,574
+Hyundai Kona,76,385,51,143,Delhi,515
+Nissan Leaf,58,384,37,51,Delhi,297
+Tesla Model Y,50,307,63,48,Delhi,387
+MG ZS EV,82,561,62,118,Delhi,300
+MG ZS EV,90,496,53,61,Hyderabad,386
+Mahindra XUV400,87,528,66,25,Delhi,383
+BYD Atto 3,73,594,57,137,Pune,308
+Nissan Leaf,46,335,32,87,Bangalore,338
+MG ZS EV,31,438,57,138,Kolkata,569
+MG ZS EV,42,391,55,140,Kolkata,577
+Tesla Model Y,59,282,85,107,Bangalore,244
+BYD Atto 3,58,484,51,38,Pune,481
+Nissan Leaf,47,571,40,56,Pune,318
+MG ZS EV,72,490,53,36,Mumbai,290
+Hyundai Kona,68,273,37,80,Mumbai,414
+Mahindra XUV400,69,353,37,122,Mumbai,588
+Tata Nexon EV,33,499,41,37,Ahmedabad,512
+Tesla Model Y,78,492,39,65,Hyderabad,246
+Tesla Model 3,48,365,80,83,Chennai,357
+Hyundai Kona,82,600,84,110,Kolkata,258
+MG ZS EV,63,287,67,67,Chennai,340
+Hyundai Kona,63,413,53,141,Ahmedabad,557
+Tesla Model 3,37,600,81,60,Mumbai,307
+Tata Nexon EV,52,414,41,136,Pune,476
+BYD Atto 3,53,378,57,102,Kolkata,247
+BYD Atto 3,86,599,87,56,Mumbai,295
+BYD Atto 3,66,298,50,44,Kolkata,297
+Tata Nexon EV,40,360,86,89,Chennai,492
+BYD Atto 3,61,538,56,87,Pune,392
+Mahindra XUV400,78,261,86,28,Mumbai,545
+Hyundai Kona,49,457,37,111,Pune,358
+Tata Nexon EV,46,581,79,124,Mumbai,574
+Tata Nexon EV,66,274,74,31,Hyderabad,540
+Tesla Model 3,88,392,36,54,Bangalore,322
+Hyundai Kona,87,391,61,113,Pune,389
+MG ZS EV,67,543,84,144,Pune,228
+MG ZS EV,46,592,86,87,Hyderabad,560
+Hyundai Kona,60,591,78,73,Kolkata,327
+Tata Nexon EV,32,526,59,75,Hyderabad,568
+BYD Atto 3,59,576,36,100,Hyderabad,570
+BYD Atto 3,61,504,79,35,Pune,380
+Tata Nexon EV,50,433,69,68,Bangalore,232
+MG ZS EV,65,387,36,30,Ahmedabad,596
+Hyundai Kona,72,455,49,70,Bangalore,217
+Tesla Model Y,38,393,39,69,Mumbai,352
+Tesla Model Y,47,478,31,33,Bangalore,442
+Tesla Model Y,63,404,77,118,Hyderabad,495
+Nissan Leaf,32,369,48,26,Bangalore,401
+Mahindra XUV400,47,452,35,89,Ahmedabad,208
+Tesla Model 3,56,376,75,98,Bangalore,575
+Tesla Model Y,71,470,76,71,Kolkata,493
+Tesla Model 3,50,513,81,35,Ahmedabad,267
+Mahindra XUV400,69,586,37,52,Mumbai,298
+MG ZS EV,77,403,69,76,Kolkata,524
+Hyundai Kona,86,284,35,98,Hyderabad,426
+BYD Atto 3,57,545,90,128,Mumbai,537
+MG ZS EV,66,535,61,140,Ahmedabad,563
+Mahindra XUV400,88,454,70,44,Mumbai,242
+Nissan Leaf,51,288,54,50,Hyderabad,324
+Nissan Leaf,54,357,57,74,Bangalore,559
+BYD Atto 3,74,319,38,123,Ahmedabad,404
+BYD Atto 3,53,261,35,112,Hyderabad,577
+Tesla Model 3,72,267,74,37,Pune,330
+BYD Atto 3,33,565,77,78,Pune,473
+Tesla Model Y,68,294,76,135,Chennai,328
+Hyundai Kona,86,587,30,66,Ahmedabad,519
+Mahindra XUV400,62,396,43,64,Delhi,583
+Mahindra XUV400,74,464,34,140,Delhi,388
+Tata Nexon EV,35,408,60,51,Kolkata,227
+MG ZS EV,63,321,72,26,Hyderabad,567
+Tesla Model Y,53,303,40,110,Hyderabad,471
+MG ZS EV,48,349,82,59,Hyderabad,531
+Mahindra XUV400,52,310,62,26,Chennai,243
+MG ZS EV,79,460,33,143,Pune,329
+Tesla Model 3,40,510,45,84,Ahmedabad,501
+Tata Nexon EV,73,454,56,116,Pune,261
+MG ZS EV,74,583,74,122,Ahmedabad,466
+Tesla Model Y,80,384,76,45,Kolkata,265
+Tesla Model Y,31,600,31,26,Hyderabad,315
+MG ZS EV,82,561,62,49,Kolkata,341
+Mahindra XUV400,63,307,76,33,Ahmedabad,203
+MG ZS EV,82,517,35,75,Pune,452
+Hyundai Kona,42,296,89,140,Pune,284
+BYD Atto 3,31,404,79,25,Bangalore,582
+Mahindra XUV400,32,275,34,149,Hyderabad,314
+Hyundai Kona,64,277,43,42,Mumbai,225
+Mahindra XUV400,81,446,65,52,Ahmedabad,216
+Tesla Model 3,56,291,46,49,Ahmedabad,401
+Hyundai Kona,76,291,85,118,Kolkata,393
+Hyundai Kona,55,375,47,56,Delhi,279
+Hyundai Kona,59,362,73,122,Mumbai,596
+Nissan Leaf,55,486,33,109,Delhi,376
+MG ZS EV,88,586,59,66,Chennai,248
+MG ZS EV,74,387,78,98,Chennai,532
+Tesla Model 3,32,507,32,127,Bangalore,505
+Hyundai Kona,48,335,77,145,Mumbai,513
+Hyundai Kona,52,517,73,112,Chennai,391
+Nissan Leaf,72,267,66,143,Chennai,233
+Mahindra XUV400,64,268,87,91,Mumbai,379
+Nissan Leaf,90,451,50,149,Bangalore,206
+Tesla Model 3,50,406,75,129,Chennai,217
+BYD Atto 3,46,499,33,129,Chennai,225
+Mahindra XUV400,88,345,44,79,Kolkata,222
+Nissan Leaf,68,302,69,44,Bangalore,530
+Mahindra XUV400,53,350,31,116,Hyderabad,441
+Tesla Model Y,34,461,51,115,Ahmedabad,553
+Nissan Leaf,48,449,65,149,Mumbai,543
+Tata Nexon EV,63,319,78,41,Mumbai,325
+BYD Atto 3,53,421,72,124,Ahmedabad,592
+BYD Atto 3,41,308,73,61,Chennai,467
+Hyundai Kona,79,358,86,107,Hyderabad,394
+Tesla Model Y,44,303,49,104,Pune,566
+BYD Atto 3,68,311,68,110,Mumbai,316
+Tesla Model Y,34,413,70,129,Kolkata,493
+Hyundai Kona,33,277,70,134,Kolkata,346
+Tesla Model 3,33,469,36,91,Bangalore,233
+Nissan Leaf,75,288,63,34,Chennai,274
+Hyundai Kona,35,308,34,144,Mumbai,230
+Tata Nexon EV,58,396,53,42,Mumbai,592
+Hyundai Kona,57,313,87,97,Hyderabad,329
+MG ZS EV,67,366,64,73,Bangalore,312
+Tata Nexon EV,90,272,72,56,Chennai,215
+Tesla Model 3,72,442,63,87,Kolkata,513
+MG ZS EV,79,502,88,45,Delhi,477
+Tata Nexon EV,63,367,56,111,Hyderabad,306
+Tata Nexon EV,43,396,86,60,Ahmedabad,575
+Tesla Model 3,57,277,30,32,Bangalore,483
+Hyundai Kona,81,414,34,85,Hyderabad,314
+Nissan Leaf,49,496,79,41,Ahmedabad,312
+Hyundai Kona,49,482,64,146,Delhi,340
+MG ZS EV,60,560,79,43,Pune,560
+BYD Atto 3,68,550,83,85,Chennai,599
+BYD Atto 3,85,339,32,25,Kolkata,470
+Mahindra XUV400,31,533,49,123,Chennai,312
+BYD Atto 3,84,398,90,82,Chennai,551
+Tesla Model Y,40,286,62,54,Ahmedabad,459
+MG ZS EV,72,435,63,57,Hyderabad,304
+Tesla Model Y,63,251,83,129,Ahmedabad,434
+Mahindra XUV400,84,557,30,29,Kolkata,552
+Mahindra XUV400,31,568,42,65,Ahmedabad,426
+Nissan Leaf,49,334,65,63,Mumbai,345
+Mahindra XUV400,69,599,62,33,Mumbai,544
+Tesla Model Y,67,300,58,123,Delhi,201
+Tesla Model 3,44,590,80,119,Delhi,285
+Hyundai Kona,42,551,82,62,Chennai,549
+Tesla Model Y,33,491,71,101,Pune,583
+BYD Atto 3,57,293,52,37,Delhi,582
+MG ZS EV,49,350,86,27,Pune,594
+BYD Atto 3,57,419,73,55,Ahmedabad,584
+MG ZS EV,86,369,65,106,Pune,516
+BYD Atto 3,33,536,33,81,Chennai,393
+MG ZS EV,30,560,48,78,Ahmedabad,397
+Nissan Leaf,40,378,34,32,Mumbai,207
+Tesla Model Y,85,368,31,118,Delhi,574
+MG ZS EV,78,386,87,30,Delhi,469
+Hyundai Kona,34,323,57,60,Chennai,525
+Tata Nexon EV,49,564,78,88,Mumbai,406
+Tesla Model Y,59,554,78,60,Kolkata,278
+BYD Atto 3,69,338,70,105,Kolkata,326
+Mahindra XUV400,74,262,31,85,Pune,352
+MG ZS EV,68,436,36,103,Bangalore,287
+Mahindra XUV400,76,311,85,56,Ahmedabad,394
+MG ZS EV,53,365,50,37,Chennai,334
+BYD Atto 3,43,295,69,99,Pune,424
+Nissan Leaf,83,283,78,36,Pune,268
+MG ZS EV,64,430,62,111,Pune,395
+BYD Atto 3,69,363,89,132,Chennai,211
+Mahindra XUV400,53,285,76,133,Hyderabad,450
+MG ZS EV,76,595,52,123,Kolkata,583
+Tesla Model Y,49,295,79,39,Bangalore,386
+Mahindra XUV400,74,442,44,25,Chennai,376
+Tesla Model Y,53,599,79,60,Delhi,559
+Tesla Model Y,33,408,79,102,Delhi,459
+Tesla Model Y,66,504,76,55,Mumbai,331
+Mahindra XUV400,50,343,45,102,Ahmedabad,215
+Tesla Model Y,64,276,39,109,Hyderabad,591
+Tata Nexon EV,58,529,37,62,Mumbai,289
+BYD Atto 3,72,328,58,82,Bangalore,367
+Hyundai Kona,39,263,89,149,Ahmedabad,219
+Mahindra XUV400,80,332,55,121,Pune,575
+Tesla Model Y,80,380,84,135,Bangalore,412
+Hyundai Kona,33,332,77,87,Delhi,253
+Tata Nexon EV,45,264,43,53,Mumbai,273
+Hyundai Kona,37,547,46,40,Pune,277
+Tesla Model Y,79,555,31,45,Ahmedabad,537
+BYD Atto 3,47,413,61,46,Chennai,408
+Tata Nexon EV,83,351,43,77,Bangalore,286
+Nissan Leaf,83,250,39,35,Hyderabad,432
+Tesla Model 3,74,422,43,70,Kolkata,580
+BYD Atto 3,58,380,58,59,Pune,415
+Nissan Leaf,79,272,32,30,Mumbai,251
+Mahindra XUV400,87,424,48,146,Chennai,217
+Nissan Leaf,39,383,89,73,Pune,384
+Mahindra XUV400,55,533,90,49,Kolkata,257
+Mahindra XUV400,89,495,50,137,Ahmedabad,293
+MG ZS EV,82,526,46,110,Bangalore,526
+Hyundai Kona,39,447,75,142,Pune,416
+BYD Atto 3,66,572,56,110,Ahmedabad,276
+MG ZS EV,67,319,53,135,Hyderabad,212
+Tesla Model 3,46,352,87,112,Mumbai,236
+BYD Atto 3,71,526,60,25,Mumbai,561
+Hyundai Kona,52,566,49,99,Chennai,593
+Tata Nexon EV,48,398,30,65,Bangalore,307
+Hyundai Kona,36,583,38,37,Chennai,587
+Tata Nexon EV,42,330,83,100,Ahmedabad,379
+BYD Atto 3,65,563,71,37,Kolkata,241
+Hyundai Kona,37,366,70,133,Bangalore,252
+Nissan Leaf,49,441,56,103,Pune,581
+Mahindra XUV400,79,595,83,100,Kolkata,360
+Mahindra XUV400,68,572,80,137,Delhi,201
+MG ZS EV,69,492,63,89,Mumbai,523
+Tata Nexon EV,46,557,40,89,Mumbai,572
+BYD Atto 3,43,382,46,127,Chennai,200
+Nissan Leaf,67,271,55,68,Chennai,356
+BYD Atto 3,49,572,63,138,Bangalore,513
+Mahindra XUV400,45,330,45,75,Bangalore,253
+BYD Atto 3,45,490,63,127,Mumbai,586
+Mahindra XUV400,66,339,73,72,Mumbai,318
+Tesla Model Y,32,342,35,109,Bangalore,474
+BYD Atto 3,49,545,72,112,Pune,369
+Tesla Model Y,59,515,82,27,Kolkata,448
+MG ZS EV,65,294,35,29,Bangalore,524
+Hyundai Kona,40,507,71,101,Bangalore,221
+Tesla Model 3,63,383,44,96,Pune,533
+Tesla Model Y,40,359,80,99,Pune,384
+Tesla Model Y,89,281,86,50,Pune,433
+Hyundai Kona,31,382,82,46,Mumbai,243
+Nissan Leaf,90,371,82,43,Ahmedabad,361
+Nissan Leaf,87,496,44,146,Pune,362
+MG ZS EV,40,431,41,109,Ahmedabad,235
+MG ZS EV,46,508,68,142,Bangalore,410
+Tata Nexon EV,44,403,85,49,Kolkata,221
+Nissan Leaf,38,478,50,119,Ahmedabad,518
+Hyundai Kona,51,421,30,48,Bangalore,478
+Tesla Model 3,65,298,34,45,Chennai,356
+Mahindra XUV400,31,493,71,29,Bangalore,447
+Tata Nexon EV,58,586,78,143,Bangalore,503
+Hyundai Kona,55,426,56,42,Delhi,459
+BYD Atto 3,84,382,70,101,Ahmedabad,266
+Mahindra XUV400,90,283,40,76,Delhi,313
+Hyundai Kona,42,593,66,93,Chennai,325
+Tata Nexon EV,44,449,38,104,Delhi,493
+Hyundai Kona,58,405,54,42,Hyderabad,349
+BYD Atto 3,52,491,63,34,Chennai,544
+Nissan Leaf,65,288,35,65,Bangalore,242
+BYD Atto 3,88,260,43,149,Pune,385
+Nissan Leaf,55,442,46,88,Mumbai,571
+Tesla Model Y,38,333,49,87,Pune,436
+MG ZS EV,84,279,42,27,Bangalore,305
+MG ZS EV,86,441,68,118,Pune,394
+Nissan Leaf,48,258,64,122,Pune,340
+Tesla Model Y,36,397,83,136,Pune,436
+Hyundai Kona,82,447,49,66,Ahmedabad,583
+Mahindra XUV400,51,281,78,58,Chennai,527
+Hyundai Kona,79,594,34,100,Ahmedabad,256
+Tata Nexon EV,40,267,77,60,Delhi,435
+Nissan Leaf,80,398,80,114,Pune,546
+BYD Atto 3,42,261,62,33,Kolkata,577
+Mahindra XUV400,57,351,55,83,Mumbai,367
+MG ZS EV,55,456,59,70,Delhi,591
+Nissan Leaf,83,528,36,46,Hyderabad,539
+Tata Nexon EV,76,358,44,106,Hyderabad,442
+Nissan Leaf,30,387,66,119,Chennai,200
+Tesla Model Y,38,417,50,81,Chennai,263
+Tesla Model 3,33,380,58,45,Mumbai,422
+Hyundai Kona,72,287,83,75,Kolkata,429
+Tata Nexon EV,39,369,82,102,Hyderabad,513
+Tesla Model Y,49,335,59,36,Delhi,491
+Tesla Model 3,54,325,87,66,Mumbai,395
+Mahindra XUV400,76,310,38,107,Hyderabad,228
+Tesla Model 3,60,435,50,35,Ahmedabad,503
+Mahindra XUV400,64,305,79,92,Mumbai,238
+Nissan Leaf,80,348,50,94,Mumbai,432
+Tesla Model 3,57,294,85,135,Bangalore,361
+Nissan Leaf,47,563,72,46,Delhi,343
+Nissan Leaf,70,310,84,135,Ahmedabad,398
+Tesla Model 3,88,575,88,123,Ahmedabad,304
+Mahindra XUV400,85,299,31,51,Mumbai,492
+Tesla Model 3,40,551,79,79,Ahmedabad,527
+Tata Nexon EV,38,553,48,85,Delhi,454
+Tesla Model 3,84,434,85,68,Hyderabad,300
+MG ZS EV,89,400,35,69,Bangalore,579
+Hyundai Kona,39,510,38,98,Kolkata,493
+BYD Atto 3,64,484,53,144,Hyderabad,338
+Nissan Leaf,59,284,59,42,Delhi,230
+Tesla Model 3,55,598,75,107,Ahmedabad,216
+Tesla Model Y,80,315,45,41,Hyderabad,398
+Nissan Leaf,33,521,39,32,Pune,478
+BYD Atto 3,61,260,53,86,Mumbai,501
+Mahindra XUV400,64,370,51,74,Kolkata,382
+Nissan Leaf,43,372,80,79,Ahmedabad,372
+Tesla Model Y,46,348,42,144,Kolkata,331
+Tata Nexon EV,53,453,87,34,Pune,315
+Hyundai Kona,66,403,38,133,Pune,578
+Hyundai Kona,49,370,66,97,Chennai,268
+Tesla Model Y,71,351,47,28,Bangalore,509
+Tesla Model 3,58,420,87,114,Mumbai,571
+Tesla Model 3,75,429,34,99,Delhi,365
+BYD Atto 3,54,321,36,125,Hyderabad,335
+Hyundai Kona,79,395,52,120,Mumbai,239
+MG ZS EV,62,338,90,93,Kolkata,398
+Hyundai Kona,46,596,54,148,Hyderabad,577
+Nissan Leaf,73,278,78,41,Bangalore,522
+Nissan Leaf,56,347,74,90,Bangalore,596
+Tesla Model Y,83,592,83,74,Hyderabad,595
+Mahindra XUV400,56,582,46,145,Bangalore,531
+Nissan Leaf,81,457,86,91,Hyderabad,446
+Mahindra XUV400,65,449,66,64,Pune,535
+MG ZS EV,54,433,64,138,Bangalore,311
+Tesla Model Y,72,325,62,52,Bangalore,330
+MG ZS EV,59,388,70,105,Delhi,537
+Tesla Model Y,79,442,48,109,Pune,370
+MG ZS EV,54,389,64,69,Pune,272
+Tesla Model 3,49,366,86,68,Hyderabad,415
+Tata Nexon EV,69,305,71,112,Bangalore,483
+Tesla Model 3,49,529,70,149,Hyderabad,320
+Tata Nexon EV,76,411,50,85,Ahmedabad,317
+Tesla Model Y,85,411,82,101,Hyderabad,239
+Tesla Model 3,53,397,52,124,Pune,442
+Nissan Leaf,69,283,36,72,Delhi,284
+BYD Atto 3,60,340,64,126,Chennai,520
+BYD Atto 3,47,380,86,28,Kolkata,310
+Tesla Model Y,85,349,83,133,Mumbai,597
+Mahindra XUV400,40,554,45,67,Chennai,214
+Tesla Model 3,63,294,46,74,Delhi,553
+Hyundai Kona,47,336,59,135,Kolkata,213
+Hyundai Kona,51,499,88,128,Mumbai,200
+Tata Nexon EV,58,500,52,110,Kolkata,509
+Tesla Model Y,74,376,60,131,Delhi,318
+Tesla Model Y,50,447,83,111,Hyderabad,307
+Nissan Leaf,83,464,46,95,Ahmedabad,207
+Hyundai Kona,44,368,40,105,Hyderabad,528
+Nissan Leaf,36,584,82,134,Chennai,339
+Tata Nexon EV,61,280,36,73,Kolkata,255
+Mahindra XUV400,72,323,67,139,Pune,478
+Hyundai Kona,39,591,80,73,Chennai,563
+Tesla Model Y,76,338,33,119,Mumbai,235
+BYD Atto 3,87,315,80,113,Ahmedabad,281
+BYD Atto 3,69,541,76,78,Bangalore,409
+BYD Atto 3,90,388,42,139,Delhi,579
+Mahindra XUV400,67,535,63,92,Pune,415
+Mahindra XUV400,82,555,73,128,Kolkata,354
+Mahindra XUV400,49,305,66,48,Mumbai,273
+Tata Nexon EV,32,437,86,29,Ahmedabad,533
+Tata Nexon EV,71,325,30,91,Bangalore,389
+Nissan Leaf,63,547,54,95,Hyderabad,309
+Tesla Model 3,46,522,42,27,Bangalore,346
+MG ZS EV,58,496,39,83,Delhi,311
+BYD Atto 3,87,367,59,52,Bangalore,532
+Tata Nexon EV,68,343,36,77,Pune,246
+Mahindra XUV400,54,552,55,87,Bangalore,477
+Nissan Leaf,53,539,67,35,Delhi,313
+Hyundai Kona,59,413,46,36,Hyderabad,204
+MG ZS EV,87,387,65,53,Hyderabad,206
+Tesla Model 3,62,580,86,79,Mumbai,522
+Tesla Model Y,32,468,42,118,Mumbai,577
+Tesla Model Y,46,433,72,121,Ahmedabad,589
+MG ZS EV,86,394,60,52,Bangalore,247
+Nissan Leaf,54,585,31,71,Chennai,222
+Tesla Model 3,45,374,51,51,Ahmedabad,256
+Tesla Model Y,54,371,78,71,Hyderabad,496
+Mahindra XUV400,55,375,61,134,Ahmedabad,358
+Tesla Model Y,45,384,42,143,Ahmedabad,284
+Tesla Model 3,83,271,55,82,Delhi,299
+Tesla Model Y,60,266,87,130,Bangalore,581
+Tesla Model 3,55,307,85,75,Ahmedabad,356
+Tata Nexon EV,37,508,30,131,Ahmedabad,223
+BYD Atto 3,88,256,44,106,Kolkata,219
+MG ZS EV,42,503,86,38,Bangalore,577
+Tata Nexon EV,44,478,53,133,Hyderabad,489
+Mahindra XUV400,48,380,34,133,Kolkata,537
+Hyundai Kona,45,563,58,27,Bangalore,346
+Mahindra XUV400,39,502,68,26,Bangalore,495
+MG ZS EV,69,523,86,62,Kolkata,259
+BYD Atto 3,66,308,90,90,Pune,571
+Tesla Model Y,79,435,43,139,Chennai,596
+Nissan Leaf,55,333,87,119,Bangalore,507
+Tesla Model 3,69,353,80,85,Mumbai,500
+Hyundai Kona,76,559,62,31,Pune,408
+Tata Nexon EV,49,493,49,83,Ahmedabad,467
+Nissan Leaf,44,397,34,111,Pune,424
+MG ZS EV,72,591,58,68,Chennai,446
+Tesla Model 3,39,261,89,64,Mumbai,587
+Nissan Leaf,90,432,89,121,Bangalore,360
+Hyundai Kona,68,408,77,41,Delhi,491
+Tata Nexon EV,33,556,79,99,Mumbai,398
+Tesla Model Y,51,441,89,130,Hyderabad,444
+Hyundai Kona,59,326,60,42,Mumbai,496
+Tesla Model 3,85,580,41,64,Delhi,282
+Nissan Leaf,58,421,86,93,Pune,278
+Mahindra XUV400,88,303,47,76,Bangalore,525
+Nissan Leaf,89,255,82,45,Pune,454
+BYD Atto 3,36,589,83,96,Bangalore,309
+BYD Atto 3,52,271,66,40,Delhi,592
+Tesla Model Y,51,523,50,34,Delhi,229
+Tesla Model 3,65,532,48,31,Delhi,263
+MG ZS EV,56,250,50,116,Ahmedabad,269
+Tata Nexon EV,63,292,33,42,Bangalore,350
+Tata Nexon EV,68,571,37,85,Kolkata,234
+Tata Nexon EV,69,443,84,42,Ahmedabad,445
+MG ZS EV,46,271,59,47,Delhi,528
+Tesla Model Y,89,453,37,129,Chennai,246
+Tesla Model Y,41,341,56,57,Kolkata,279
+Tesla Model 3,64,593,65,127,Chennai,271
+MG ZS EV,66,368,66,128,Delhi,564
+Hyundai Kona,78,336,80,53,Pune,521
+Mahindra XUV400,68,389,64,58,Delhi,546
+Hyundai Kona,49,568,52,27,Delhi,266
+MG ZS EV,54,475,35,45,Hyderabad,417
+Mahindra XUV400,68,444,43,131,Bangalore,443
+Hyundai Kona,79,476,34,112,Hyderabad,263
+Nissan Leaf,81,489,40,94,Kolkata,563
+Mahindra XUV400,59,499,74,44,Hyderabad,544
+MG ZS EV,57,588,59,52,Pune,420
+BYD Atto 3,33,381,82,65,Hyderabad,547
+Mahindra XUV400,54,591,82,64,Mumbai,304
+Mahindra XUV400,34,429,56,85,Delhi,456
+Tata Nexon EV,65,510,60,71,Kolkata,431
+Nissan Leaf,54,287,52,112,Hyderabad,533
+MG ZS EV,90,401,59,25,Delhi,323
+Tata Nexon EV,67,591,74,101,Hyderabad,531
+Tesla Model Y,54,560,47,71,Delhi,529
+Nissan Leaf,85,560,66,111,Bangalore,429
+Tesla Model 3,67,323,89,132,Pune,211
+Hyundai Kona,75,420,88,84,Ahmedabad,200
+Tata Nexon EV,36,463,44,25,Bangalore,273
+Mahindra XUV400,82,494,77,63,Bangalore,209
+BYD Atto 3,46,297,36,49,Kolkata,495
+Mahindra XUV400,79,570,68,139,Pune,227
+Nissan Leaf,88,589,67,122,Hyderabad,392
+Hyundai Kona,69,593,68,105,Delhi,476
+Tata Nexon EV,37,378,67,91,Mumbai,375
+BYD Atto 3,85,391,44,36,Hyderabad,354
+BYD Atto 3,77,468,74,77,Ahmedabad,204
+MG ZS EV,90,344,72,127,Mumbai,383
+Tesla Model 3,32,587,71,29,Bangalore,511
+BYD Atto 3,78,574,31,97,Ahmedabad,392
+Nissan Leaf,47,558,61,67,Mumbai,369
+Tesla Model Y,65,449,85,148,Chennai,545
+Tesla Model Y,68,471,59,148,Mumbai,474
+BYD Atto 3,70,348,71,62,Mumbai,203
+Nissan Leaf,63,516,56,140,Bangalore,210
+BYD Atto 3,31,556,36,135,Hyderabad,207
+Tesla Model Y,78,561,69,126,Kolkata,252
+Hyundai Kona,45,271,84,143,Hyderabad,292
+Tata Nexon EV,83,316,71,68,Bangalore,434
+Nissan Leaf,41,491,60,91,Bangalore,517
+BYD Atto 3,73,492,42,87,Ahmedabad,541
+Hyundai Kona,75,490,43,149,Ahmedabad,299
+BYD Atto 3,85,342,67,114,Hyderabad,494
+Tesla Model Y,54,574,76,53,Pune,202
+MG ZS EV,72,364,80,99,Pune,243
+Tesla Model 3,82,442,67,105,Chennai,429
+Tesla Model 3,38,445,87,90,Ahmedabad,443
+Nissan Leaf,66,316,75,46,Chennai,418
+Hyundai Kona,36,315,51,102,Ahmedabad,357
+BYD Atto 3,56,339,55,83,Ahmedabad,267
+MG ZS EV,62,432,79,63,Pune,433
+Tesla Model 3,57,258,41,112,Chennai,396
+Tesla Model 3,87,280,81,108,Delhi,202
+BYD Atto 3,59,411,32,134,Mumbai,524
+Tata Nexon EV,30,400,56,98,Kolkata,205
+Mahindra XUV400,74,429,62,110,Kolkata,237
+Tesla Model Y,58,428,74,99,Bangalore,226
+MG ZS EV,34,491,56,141,Ahmedabad,216
+Hyundai Kona,49,600,90,57,Delhi,413
+BYD Atto 3,85,377,53,31,Chennai,508
+Mahindra XUV400,67,508,75,140,Hyderabad,547
+Tesla Model 3,64,481,37,97,Hyderabad,445
+Tesla Model 3,62,445,76,55,Ahmedabad,371
+BYD Atto 3,55,292,64,145,Delhi,533
+MG ZS EV,70,261,68,108,Chennai,502
+Nissan Leaf,62,375,73,75,Pune,321
+Nissan Leaf,66,270,84,112,Hyderabad,282
+Nissan Leaf,83,285,74,42,Ahmedabad,211
+BYD Atto 3,75,293,80,134,Delhi,355
+MG ZS EV,63,439,36,144,Pune,487
+Tata Nexon EV,89,306,59,39,Pune,588
+Hyundai Kona,53,327,79,55,Kolkata,278
+Tata Nexon EV,89,376,63,37,Pune,240
+MG ZS EV,62,559,75,136,Kolkata,296
+Mahindra XUV400,39,417,50,100,Bangalore,204
+Tesla Model Y,42,393,64,98,Mumbai,239
+Mahindra XUV400,64,394,87,66,Pune,592
+Mahindra XUV400,35,576,43,30,Delhi,213
+Mahindra XUV400,59,430,87,107,Kolkata,370
+Tesla Model Y,70,592,44,40,Pune,589
+Tata Nexon EV,55,439,76,118,Kolkata,235
+Mahindra XUV400,81,302,36,148,Mumbai,332
+Hyundai Kona,90,360,88,141,Delhi,284
+Tesla Model 3,62,493,79,99,Chennai,228
+Tesla Model 3,76,340,42,51,Hyderabad,420
+Mahindra XUV400,82,418,84,120,Mumbai,230
+BYD Atto 3,88,347,72,130,Chennai,565
+Mahindra XUV400,90,441,86,42,Delhi,296
+Nissan Leaf,86,517,42,115,Mumbai,422
+Hyundai Kona,36,311,57,82,Hyderabad,242
+BYD Atto 3,49,260,56,128,Pune,401
+Nissan Leaf,34,329,42,100,Ahmedabad,409
+Hyundai Kona,78,536,32,114,Kolkata,563
+BYD Atto 3,87,358,81,59,Kolkata,317
+BYD Atto 3,74,597,55,108,Kolkata,253
+MG ZS EV,40,321,44,131,Mumbai,347
+BYD Atto 3,90,397,70,39,Hyderabad,586
+Hyundai Kona,81,476,71,145,Hyderabad,363
+Tesla Model 3,35,441,84,136,Pune,446
+Nissan Leaf,44,309,61,122,Bangalore,490
+Tesla Model Y,75,509,60,115,Mumbai,281
+Hyundai Kona,46,420,54,97,Kolkata,260
+MG ZS EV,30,491,42,67,Kolkata,371
+Tata Nexon EV,82,427,72,117,Pune,393
+Tata Nexon EV,79,392,52,93,Chennai,533
+Tesla Model 3,68,507,65,79,Chennai,598
+Tata Nexon EV,79,328,86,77,Pune,533
+MG ZS EV,85,256,67,66,Delhi,237
+Hyundai Kona,76,492,90,127,Hyderabad,365
+Mahindra XUV400,53,513,55,92,Hyderabad,401
+Tata Nexon EV,89,457,71,104,Bangalore,393
+BYD Atto 3,40,577,74,87,Pune,325
+Tesla Model Y,83,469,76,130,Pune,354
+Nissan Leaf,45,545,66,88,Bangalore,449
+Tesla Model Y,76,409,85,127,Mumbai,581
+Nissan Leaf,43,513,78,78,Bangalore,465
+Tata Nexon EV,59,285,67,92,Kolkata,290
+Hyundai Kona,62,385,55,110,Mumbai,408
+Hyundai Kona,37,378,34,100,Hyderabad,378
+Tata Nexon EV,81,596,58,122,Hyderabad,368
+BYD Atto 3,46,487,43,41,Pune,351
+Tesla Model 3,75,381,38,53,Pune,406
+Hyundai Kona,80,582,81,100,Pune,275
+Nissan Leaf,72,459,45,56,Mumbai,521
+BYD Atto 3,59,445,56,77,Ahmedabad,213
+Nissan Leaf,52,551,71,90,Bangalore,362
+MG ZS EV,85,541,76,147,Mumbai,562
+Tata Nexon EV,66,406,80,85,Pune,445
+MG ZS EV,77,459,31,115,Hyderabad,382
+Mahindra XUV400,56,584,83,128,Kolkata,219
+Hyundai Kona,60,540,54,89,Bangalore,204
+Tesla Model Y,86,301,85,102,Pune,451
+Tesla Model Y,56,429,58,28,Ahmedabad,508
+Nissan Leaf,36,321,48,142,Mumbai,395
+Tesla Model 3,79,305,90,129,Chennai,259
+Tesla Model Y,53,567,58,111,Pune,511
+Mahindra XUV400,61,496,82,46,Bangalore,310
+MG ZS EV,81,446,69,91,Bangalore,453
+Nissan Leaf,77,522,64,93,Hyderabad,386
+Tesla Model Y,81,583,71,43,Ahmedabad,541
+MG ZS EV,62,560,86,106,Pune,294
+Tata Nexon EV,39,483,67,126,Mumbai,274
+Hyundai Kona,62,402,55,86,Delhi,247
+Tesla Model Y,82,446,45,51,Mumbai,522
+Tesla Model Y,89,375,74,51,Delhi,427
+Hyundai Kona,80,482,62,141,Kolkata,359
+BYD Atto 3,34,379,68,90,Pune,501
+Hyundai Kona,50,502,56,54,Delhi,508
+BYD Atto 3,68,341,38,73,Pune,434
+Nissan Leaf,31,535,53,34,Hyderabad,574
+Mahindra XUV400,87,364,53,104,Hyderabad,261
+Mahindra XUV400,44,564,39,81,Mumbai,404
+Tesla Model Y,84,310,71,115,Pune,244
+Mahindra XUV400,77,424,47,136,Hyderabad,239
+Hyundai Kona,57,445,33,102,Bangalore,369
+Nissan Leaf,50,252,72,63,Chennai,379
+Tata Nexon EV,40,275,76,131,Hyderabad,360
+Tesla Model 3,66,446,78,126,Hyderabad,598
+Tesla Model Y,61,582,41,76,Ahmedabad,412
+BYD Atto 3,47,433,44,76,Pune,265
+Tesla Model 3,32,559,50,38,Chennai,515
+Nissan Leaf,57,592,66,57,Ahmedabad,551
+Tata Nexon EV,72,468,49,65,Bangalore,295
+Nissan Leaf,85,449,87,92,Bangalore,218
+Tata Nexon EV,79,580,56,104,Kolkata,410
+MG ZS EV,89,598,55,73,Ahmedabad,587
+Tata Nexon EV,37,355,75,104,Delhi,535
+BYD Atto 3,86,587,36,86,Pune,355
+Nissan Leaf,47,557,41,105,Mumbai,200
+Mahindra XUV400,30,454,90,50,Kolkata,565
+MG ZS EV,75,570,71,76,Hyderabad,281
+Tesla Model Y,39,564,63,122,Chennai,203
+Tesla Model 3,55,504,65,149,Mumbai,528
+Hyundai Kona,76,343,82,111,Bangalore,201
+Mahindra XUV400,61,404,88,88,Pune,379
+Hyundai Kona,55,342,66,93,Hyderabad,239
+Tata Nexon EV,36,333,56,130,Delhi,305
+BYD Atto 3,70,511,78,50,Pune,561
+Nissan Leaf,66,555,72,74,Hyderabad,358
+Hyundai Kona,57,461,57,107,Chennai,521
+Tesla Model 3,64,372,81,104,Delhi,431
+Tesla Model 3,60,409,63,91,Delhi,578
